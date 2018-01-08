@@ -1,0 +1,613 @@
+,Tweets Ago,Media,Tweet,Date,Compound,Positive,Negative,Neutral
+0,1,BBC,"Switzerland's Schindler? 
+Carl Lutz is the forgotten Swiss diplomat who rescued thousands from Holocaust.… https://t.co/LNzRhFR6LN",Sun Jan 07 20:03:03 +0000 2018,0.2263,0.158,0.734,0.107
+1,2,BBC,"Tonight, Michael Palin shares the story behind his outstanding career in television and film. ✨ 
+
+Michael Palin: A… https://t.co/VOYzhp6JyU",Sun Jan 07 19:30:04 +0000 2018,0.7351,0.279,0.721,0.0
+2,3,BBC,RT @BBCWorld: Snowing or glowing? https://t.co/em8Ks1aGPZ,Sun Jan 07 19:25:10 +0000 2018,0.0,0.0,1.0,0.0
+3,4,BBC,"RT @BBCRadio4: 🎪 Roll up! Roll up!
+https://t.co/AeAloY7XGG",Sun Jan 07 19:22:48 +0000 2018,0.0,0.0,1.0,0.0
+4,5,BBC,"RT @bbccomedy: We can't keep up with the Karcrashians. OHMIGOD, SO PWETTY!!!! https://t.co/eJV7FijmOB",Sun Jan 07 19:19:39 +0000 2018,0.0,0.0,1.0,0.0
+5,6,BBC,"RT @bbcmusic: Ed Sheeran performing 'Perfect' with Jools Holland and his Rhythm &amp; Blues Orchestra was rather exceptional 💕
+-
+Miss the show?…",Sun Jan 07 19:18:56 +0000 2018,-0.1531,0.0,0.926,0.074
+6,7,BBC,"You can learn what an animal sounds like from what it evolved to hear. 
+
+And it turns out, T rex sounded nothing li… https://t.co/BuXuJ3majp",Sun Jan 07 19:00:05 +0000 2018,0.3612,0.102,0.898,0.0
+7,8,BBC,"Tonight, David Attenborough attempts to animate the life of a 200-million-year-old ichthyosaur. 🌊 
+
+Attenborough an… https://t.co/xWsAFgCQu8",Sun Jan 07 18:32:03 +0000 2018,0.0,0.0,1.0,0.0
+8,9,BBC,Budget Italian feasts the whole family will love. 🍝 https://t.co/MtSlOvp6m6 https://t.co/8fCY2ToBM6,Sun Jan 07 17:59:05 +0000 2018,0.6369,0.318,0.682,0.0
+9,10,BBC,"What's the true scale of the global trade in humans? 
+#McMafia https://t.co/3X7YDsabMv",Sun Jan 07 17:19:01 +0000 2018,0.4215,0.203,0.797,0.0
+10,11,BBC,"The best, worst and weirdest #FACup fan fashion. ⚽️💅 https://t.co/hDEBwew84U https://t.co/1DMfVbC8oJ",Sun Jan 07 16:53:27 +0000 2018,0.128,0.333,0.359,0.308
+11,12,BBC,RT @BBC_designed: Eastern Block design is back and it’s inspiring a whole new fashion movement. 🎉 https://t.co/xS6vJ68vX8,Sun Jan 07 16:34:03 +0000 2018,-0.0258,0.15,0.695,0.155
+12,13,BBC,RT @BBCWorld: A beauty contest with a difference 🐟 https://t.co/ardDeFBwO5,Sun Jan 07 16:31:59 +0000 2018,0.5859,0.388,0.612,0.0
+13,14,BBC,RT @bbcthree: Becoming a single mum was the best thing that happened to me  https://t.co/64ZeqQRwE0 https://t.co/bJROBhtERz,Sun Jan 07 16:31:55 +0000 2018,0.6369,0.231,0.769,0.0
+14,15,BBC,RT @BBCScotland: 'Official sightings' of Nessie in 2017 were the highest this century 🐉 https://t.co/eToUiRbB0Z,Sun Jan 07 16:31:45 +0000 2018,0.0,0.0,1.0,0.0
+15,16,BBC,RT @bbccomedy: When your wife is definitely not your wife... 😳😂 #WouldILieToYou @joelycett https://t.co/Rr268sR8p6,Sun Jan 07 16:31:39 +0000 2018,0.4019,0.172,0.828,0.0
+16,17,BBC,"The Ricky &amp; Graham Show, anyone?
+
+#TheGNShow https://t.co/BvFk05j0Zq",Sun Jan 07 16:30:09 +0000 2018,0.0,0.0,1.0,0.0
+17,18,BBC,"RT @bbcmusic: You might recognise some of the names who voted in the #SoundOf2018 poll..
+
+Hiya @stormzy1, @elliegoulding and @alexander_oll…",Sun Jan 07 16:27:07 +0000 2018,0.0,0.0,1.0,0.0
+18,19,BBC,RT @BBCTwo: Here's why doves will not be appearing at the Tokyo 2020 Olympics. 🕊😳 #QI https://t.co/Fm1FX4WzTQ,Sun Jan 07 16:25:04 +0000 2018,0.0,0.0,1.0,0.0
+19,20,BBC,"RT @BBCOne: 📞 INCOMING. 
+#McMafia continues tonight at 9pm, @BBCOne. Don’t be late. https://t.co/z1JBKX7RAl",Sun Jan 07 16:19:01 +0000 2018,0.0,0.0,1.0,0.0
+20,21,BBC,"Switzerland's Schindler? 
+Carl Lutz is the forgotten Swiss diplomat who rescued thousands from Holocaust.… https://t.co/LNzRhFR6LN",Sun Jan 07 20:03:03 +0000 2018,0.2263,0.158,0.734,0.107
+21,22,BBC,"Tonight, Michael Palin shares the story behind his outstanding career in television and film. ✨ 
+
+Michael Palin: A… https://t.co/VOYzhp6JyU",Sun Jan 07 19:30:04 +0000 2018,0.7351,0.279,0.721,0.0
+22,23,BBC,RT @BBCWorld: Snowing or glowing? https://t.co/em8Ks1aGPZ,Sun Jan 07 19:25:10 +0000 2018,0.0,0.0,1.0,0.0
+23,24,BBC,"RT @BBCRadio4: 🎪 Roll up! Roll up!
+https://t.co/AeAloY7XGG",Sun Jan 07 19:22:48 +0000 2018,0.0,0.0,1.0,0.0
+24,25,BBC,"RT @bbccomedy: We can't keep up with the Karcrashians. OHMIGOD, SO PWETTY!!!! https://t.co/eJV7FijmOB",Sun Jan 07 19:19:39 +0000 2018,0.0,0.0,1.0,0.0
+25,26,BBC,"RT @bbcmusic: Ed Sheeran performing 'Perfect' with Jools Holland and his Rhythm &amp; Blues Orchestra was rather exceptional 💕
+-
+Miss the show?…",Sun Jan 07 19:18:56 +0000 2018,-0.1531,0.0,0.926,0.074
+26,27,BBC,"You can learn what an animal sounds like from what it evolved to hear. 
+
+And it turns out, T rex sounded nothing li… https://t.co/BuXuJ3majp",Sun Jan 07 19:00:05 +0000 2018,0.3612,0.102,0.898,0.0
+27,28,BBC,"Tonight, David Attenborough attempts to animate the life of a 200-million-year-old ichthyosaur. 🌊 
+
+Attenborough an… https://t.co/xWsAFgCQu8",Sun Jan 07 18:32:03 +0000 2018,0.0,0.0,1.0,0.0
+28,29,BBC,Budget Italian feasts the whole family will love. 🍝 https://t.co/MtSlOvp6m6 https://t.co/8fCY2ToBM6,Sun Jan 07 17:59:05 +0000 2018,0.6369,0.318,0.682,0.0
+29,30,BBC,"What's the true scale of the global trade in humans? 
+#McMafia https://t.co/3X7YDsabMv",Sun Jan 07 17:19:01 +0000 2018,0.4215,0.203,0.797,0.0
+30,31,BBC,"The best, worst and weirdest #FACup fan fashion. ⚽️💅 https://t.co/hDEBwew84U https://t.co/1DMfVbC8oJ",Sun Jan 07 16:53:27 +0000 2018,0.128,0.333,0.359,0.308
+31,32,BBC,RT @BBC_designed: Eastern Block design is back and it’s inspiring a whole new fashion movement. 🎉 https://t.co/xS6vJ68vX8,Sun Jan 07 16:34:03 +0000 2018,-0.0258,0.15,0.695,0.155
+32,33,BBC,RT @BBCWorld: A beauty contest with a difference 🐟 https://t.co/ardDeFBwO5,Sun Jan 07 16:31:59 +0000 2018,0.5859,0.388,0.612,0.0
+33,34,BBC,RT @bbcthree: Becoming a single mum was the best thing that happened to me  https://t.co/64ZeqQRwE0 https://t.co/bJROBhtERz,Sun Jan 07 16:31:55 +0000 2018,0.6369,0.231,0.769,0.0
+34,35,BBC,RT @BBCScotland: 'Official sightings' of Nessie in 2017 were the highest this century 🐉 https://t.co/eToUiRbB0Z,Sun Jan 07 16:31:45 +0000 2018,0.0,0.0,1.0,0.0
+35,36,BBC,RT @bbccomedy: When your wife is definitely not your wife... 😳😂 #WouldILieToYou @joelycett https://t.co/Rr268sR8p6,Sun Jan 07 16:31:39 +0000 2018,0.4019,0.172,0.828,0.0
+36,37,BBC,"The Ricky &amp; Graham Show, anyone?
+
+#TheGNShow https://t.co/BvFk05j0Zq",Sun Jan 07 16:30:09 +0000 2018,0.0,0.0,1.0,0.0
+37,38,BBC,"RT @bbcmusic: You might recognise some of the names who voted in the #SoundOf2018 poll..
+
+Hiya @stormzy1, @elliegoulding and @alexander_oll…",Sun Jan 07 16:27:07 +0000 2018,0.0,0.0,1.0,0.0
+38,39,BBC,RT @BBCTwo: Here's why doves will not be appearing at the Tokyo 2020 Olympics. 🕊😳 #QI https://t.co/Fm1FX4WzTQ,Sun Jan 07 16:25:04 +0000 2018,0.0,0.0,1.0,0.0
+39,40,BBC,"RT @BBCOne: 📞 INCOMING. 
+#McMafia continues tonight at 9pm, @BBCOne. Don’t be late. https://t.co/z1JBKX7RAl",Sun Jan 07 16:19:01 +0000 2018,0.0,0.0,1.0,0.0
+40,41,BBC,RT @bbcworldservice: Could one of the toughest cycling races bring unity to Colombia? More here: https://t.co/mFL1O9spkM https://t.co/jnwDG…,Sun Jan 07 16:18:25 +0000 2018,-0.0772,0.0,0.925,0.075
+41,42,BBC,"Burnt out? Here are 8 locations to help you get way, way away from it all. 👋 https://t.co/qINvxQrMPA https://t.co/CsANInn8PN",Sun Jan 07 16:00:07 +0000 2018,0.4019,0.144,0.856,0.0
+42,43,BBC,"Are you prepared for the collapse of society? 😱
+Here’s the knowledge you’d need to reboot civilisation. 👉… https://t.co/RQTUOyeMQC",Sun Jan 07 15:30:05 +0000 2018,-0.3182,0.09,0.758,0.152
+43,44,BBC,"Take a peek #InsideTheFactory to see how a fish finger is made. 🐟⚙️
+https://t.co/FejNIi4sHz",Sun Jan 07 15:01:01 +0000 2018,0.0,0.0,1.0,0.0
+44,45,BBC,This fisherman in Cornwall is helping to save cetaceans by using modern technology to aid his fishing practices. 🎣🐬 https://t.co/rLNKLQxfWf,Sun Jan 07 14:30:02 +0000 2018,0.6597,0.231,0.769,0.0
+45,46,BBC,"The year is 2018.
+Music is changing fast, but can the humans keep up?
+Here's a handful of possible outcomes. 👉… https://t.co/pqYeLWwHNz",Sun Jan 07 14:00:04 +0000 2018,0.0,0.0,1.0,0.0
+46,47,BBC,Take a look at some of the best photographs of the UK from last year. 📸 https://t.co/why5ck9xKk https://t.co/XJfduxho1z,Sun Jan 07 13:33:06 +0000 2018,0.6369,0.219,0.781,0.0
+47,48,BBC,"RT @BBCRadio4: ‘I exaggerate for comic effect’ 
+@charltonbrooker on his on-screen persona. 
+#desertislanddiscs 
+https://t.co/tdfpZEd4cj",Sun Jan 07 13:10:30 +0000 2018,-0.1531,0.0,0.89,0.11
+48,49,BBC,"Is this the new age of the train? 
+
+🚂 @BBC_Culture explores the brave new world of futuristic rail travel.… https://t.co/x6UBsXe6Eq",Sun Jan 07 13:00:04 +0000 2018,0.5267,0.159,0.841,0.0
+49,50,BBC,"RT @BBCOne: A mysterious figure reaches out to Alex, who is finding it increasingly difficult to say no. #McMafia. Tonight, 9pm. @BBCOne. h…",Sun Jan 07 12:33:59 +0000 2018,-0.5423,0.048,0.763,0.189
+50,51,BBC,"If you have anxiety, you’re not alone. Over 8m people in the UK have an anxiety disorder of some sort. 
+Here's some… https://t.co/rg917TPUKP",Sun Jan 07 12:30:05 +0000 2018,-0.5204,0.065,0.708,0.227
+51,52,BBC,RT @BBCScotland: The abandoned island reclaimed by seabirds 🐦 https://t.co/YRAVnFn8xA,Sun Jan 07 11:36:25 +0000 2018,-0.4588,0.0,0.727,0.273
+52,53,BBC,RT @bbcthree: Don't be this guy. https://t.co/8T8QJrBOjY,Sun Jan 07 11:35:58 +0000 2018,0.0,0.0,1.0,0.0
+53,54,BBC,"RT @bbcgetinspired: 😂 SPLASH!
+
+When you're learning to paddleboard there's only one way it's going to end... 🙈 #GetInspired https://t.co/Zl…",Sun Jan 07 11:33:57 +0000 2018,0.0,0.0,1.0,0.0
+54,55,BBC,RT @BBCRadio4: 15 podcasts guaranteed to make you smarter. https://t.co/BRm87q7mus,Sun Jan 07 11:33:02 +0000 2018,0.4588,0.25,0.75,0.0
+55,56,BBC,"RT @BBCiPlayer: ☀️ ""The complete #HardSun dossier WILL BE RELEASED."" https://t.co/7AEUPT9M0n https://t.co/tl50rimCos",Sun Jan 07 11:29:58 +0000 2018,0.0,0.0,1.0,0.0
+56,57,BBC,"RT @bbcthree: Here are solid comebacks for when people say ""non-binary people don't exist."" https://t.co/aQuQwutySF",Sun Jan 07 11:05:24 +0000 2018,0.1531,0.103,0.897,0.0
+57,58,BBC,RT @BBCWorld: Death by selfie https://t.co/nr2lwSnMGr,Sun Jan 07 11:01:46 +0000 2018,-0.5994,0.0,0.562,0.438
+58,59,BBC,"What's the fattest animal on earth? 🐘🐋🐼
+
+A whale, bear, supersized walrus or something altogether unexpected?… https://t.co/ETzGPKP3Eh",Sun Jan 07 11:00:06 +0000 2018,0.0,0.0,1.0,0.0
+59,60,BBC,RT @BBCNews: Royal Wedding: Late pub opening hours for Harry and Meghan https://t.co/7w6kcOjyxl,Sun Jan 07 10:53:54 +0000 2018,0.0,0.0,1.0,0.0
+60,61,BBC,RT @BBCFood: Going low-cal but having cravings? Enter the easiest ever chicken traybake. 🙌 Full recipe here - https://t.co/KXMxTDDtgx https…,Sun Jan 07 10:49:25 +0000 2018,0.5719,0.179,0.821,0.0
+61,62,BBC,"RT @BBCNewsround: In for a penny, in for a pound! Check out these new coin designs from the Royal Mint https://t.co/5hfRexBLyU https://t.co…",Sun Jan 07 10:49:13 +0000 2018,0.0,0.0,1.0,0.0
+62,63,BBC,💙🎶 Prepare to be mesmerised by the sounds of Scotland. https://t.co/d32eggwm1U,Sun Jan 07 10:00:04 +0000 2018,0.0,0.0,1.0,0.0
+63,64,BBC,"Women unhappy with their breast size are less likely to carry out regular self-examinations, study suggests.… https://t.co/41b81fLY8p",Sun Jan 07 09:32:03 +0000 2018,-0.4215,0.0,0.851,0.149
+64,65,BBC,The people of the whale. 📸🐋 https://t.co/TH7SUcw5JJ https://t.co/8ivwbmnhms,Sun Jan 07 09:00:14 +0000 2018,0.0,0.0,1.0,0.0
+65,66,BBC,'I fought anxiety and started teaching happiness.' https://t.co/K2TXy36b77 https://t.co/M4xJDR4rkd,Sun Jan 07 08:30:05 +0000 2018,-0.4588,0.0,0.636,0.364
+66,67,BBC,⚽️🏟 When ball boys steal the limelight and hit the big time. https://t.co/Rl0vUHaZZK https://t.co/Uc02sIM0gK,Sun Jan 07 08:00:04 +0000 2018,-0.4939,0.0,0.802,0.198
+67,68,BBC,"RT @BBCScotland: Let this be a lesson to us all...how NOT to split the bill. 
+
+From @MrQuippy https://t.co/wEGoJQm5Fe",Sat Jan 06 23:57:10 +0000 2018,0.0,0.0,1.0,0.0
+68,69,BBC,RT @bbcthree: Kids discussing hipsters is as amazing as you'd expect. https://t.co/7ZlwQbc8Bw,Sat Jan 06 23:56:58 +0000 2018,0.5859,0.257,0.743,0.0
+69,70,BBC,"RT @BBCScotland: Heroin exploded into housing schemes around Scotland in the early 80's changing policing and society forever.
+
+Watch the f…",Sat Jan 06 23:56:09 +0000 2018,-0.4939,0.0,0.862,0.138
+70,71,BBC,"RT @BBCMOTD: 🎶 Doo doo doo doo doo doo doo doo doo doo doo doo doo doo doo… 🎶
+
+#FACup third round day always throws up some stories - today…",Sat Jan 06 23:55:08 +0000 2018,0.0,0.0,1.0,0.0
+71,72,BBC,"DCI Hicks and DI Renko stumble on a lethal secret that will bind them together for life. 
+
+#HardSun | 9.35pm |… https://t.co/Tl7pjslOQZ",Sat Jan 06 19:33:03 +0000 2018,0.0,0.0,1.0,0.0
+72,73,BBC,👰🤵🏆 @reallorraine and @RobBeckettComic present as couples and their families come together for a wedding day like n… https://t.co/acOWVTDVKy,Sat Jan 06 19:01:04 +0000 2018,0.3612,0.128,0.872,0.0
+73,74,BBC,"Tonight, nature lover Hugh Fearnley-Whittingstall exlpores the wildlife of the West Country. 🐭🍃 
+
+Hugh's Wild West… https://t.co/GvNEA0JNz7",Sat Jan 06 18:32:03 +0000 2018,0.5859,0.192,0.808,0.0
+74,75,BBC,"We've made huge advances in eye care over the years, but will we ever be able to eliminate blindness? https://t.co/2IfDxktpiD",Sat Jan 06 17:59:01 +0000 2018,0.4118,0.172,0.828,0.0
+75,76,BBC,"'You feel like you’re in outer space.’
+How people in the Russian far east cope with living in -50 Celsius. ❄ https://t.co/YIgVe77Zey",Sat Jan 06 17:30:07 +0000 2018,0.3612,0.111,0.889,0.0
+76,77,BBC,"Who will stand the test of time and be remembered in 1,000 years? https://t.co/VpoJ0hQMlP https://t.co/ON7WonHhEC",Sat Jan 06 17:00:09 +0000 2018,0.0,0.0,1.0,0.0
+77,78,BBC,"Todogganing 🐶🏂
+https://t.co/EFO7JRP77K",Sat Jan 06 16:45:03 +0000 2018,0.0,0.0,1.0,0.0
+78,79,BBC,These women in Pakistan are learning Mixed Martial Arts to fight against sexual harassment. 👊 https://t.co/TOVvhUN3cv,Sat Jan 06 16:30:04 +0000 2018,-0.7269,0.0,0.681,0.319
+79,80,BBC,RT @bbccomedy: Accidental likes? Buffering videos? Our parents have NO IDEA what we go through... 😭 https://t.co/E8R4OXVHcv,Sat Jan 06 16:18:16 +0000 2018,-0.2006,0.137,0.637,0.225
+80,81,BBC,Scientists are using a common virus used to help fight incurable brain cancer. 🔬 https://t.co/koLrDckPs4 https://t.co/yHjxJONrqi,Sat Jan 06 16:03:04 +0000 2018,-0.6486,0.13,0.531,0.338
+81,82,BBC,🐶🐱📆  Should workers be allowed 'paw-ternity leave' - paid time off to care for their pets? https://t.co/DUIlvg8MfD https://t.co/E0qGmCaicv,Sat Jan 06 15:33:03 +0000 2018,0.4588,0.165,0.773,0.062
+82,83,BBC,RT @bbcworldservice: Why we can't resist puppy dog eyes. 🐶 📻 https://t.co/3tHzsHxw6O https://t.co/do6bcqnMQJ,Sat Jan 06 15:21:56 +0000 2018,0.0,0.0,1.0,0.0
+83,84,BBC,Battle stations people! We may be heading for a chocolate crisis. 🍫😫 https://t.co/n1Hefd02KG https://t.co/fXS6mvx088,Sat Jan 06 15:00:10 +0000 2018,-0.7901,0.0,0.611,0.389
+84,85,BBC,"What a polar bear cub sounds like. ❤️️
+https://t.co/c8lWvBlo6U",Sat Jan 06 14:00:04 +0000 2018,0.3612,0.263,0.737,0.0
+85,86,BBC,Want to help the wildlife in your backyard this winter? Here are some ideas for creating a 'winter menu’. 😋 https://t.co/1TG8z9n1wf,Sat Jan 06 13:00:08 +0000 2018,0.6369,0.279,0.721,0.0
+86,87,BBC,Thousands of people have attempted to build the world's tallest Lego tower in memory of an eight-year-old cancer vi… https://t.co/mknHDReqM5,Sat Jan 06 12:00:06 +0000 2018,-0.6597,0.0,0.812,0.188
+87,88,BBC,"RT @bbcrb: 😲😲 Did you know there's a whole Victorian street buried in Bristol? 
+Come explore it with us! https://t.co/0juiW9gsoG",Sat Jan 06 11:41:46 +0000 2018,0.0,0.0,1.0,0.0
+88,89,BBC,"RT @bbcstories: ""If I inspire even just one or two young black people to take up the cello or any instrument then that's an amazing and won…",Sat Jan 06 11:41:41 +0000 2018,0.8176,0.238,0.762,0.0
+89,90,BBC,RT @bbcthree: The teen who invented a 3D-printed hand for £225 to help those who couldn't afford them. https://t.co/ICW215RyF2,Sat Jan 06 11:41:31 +0000 2018,0.7096,0.269,0.731,0.0
+90,91,BBC,"RT @BBCOne: Welcome to the big league. 
+
+🐯 #BigCats, starts Thursday at 8pm on @BBCOne and @BBCiPlayer 👉 https://t.co/ZrUUTEMuWX https://t.…",Sat Jan 06 11:41:27 +0000 2018,0.4588,0.15,0.85,0.0
+91,92,BBC,RT @BBCiPlayer: 😂 The struggle is real. #Veganuary https://t.co/N5X9vUZNcl,Sat Jan 06 11:41:23 +0000 2018,-0.3182,0.0,0.753,0.247
+92,93,BBC,"RT @BBCWorld: This dog is making the most of the snow, all on her own ❄️🐶🛷
+
+https://t.co/rlGFCrN2WL https://t.co/L3kelJvKOy",Sat Jan 06 11:41:14 +0000 2018,0.0,0.0,1.0,0.0
+93,94,BBC,"'That fly has no idea of the danger it's in right now.'
+
+When Chris O’Dowd drank a fly (by accident!) on #TheGNShow… https://t.co/pYVliUFQl6",Sat Jan 06 11:30:02 +0000 2018,-0.7088,0.0,0.772,0.228
+94,95,BBC,Struggling to find a 2018 New Year's Resolution? This quiz could help! https://t.co/rRLGZO8pib https://t.co/WsSEDuAQX0,Sat Jan 06 11:01:03 +0000 2018,-0.1007,0.161,0.655,0.184
+95,96,BBC,A 'Wolf supermoon' lit up the sky on New Year's Day - the largest and brightest moon of 2018. 😍🌝… https://t.co/rM73qLS7VV,Sat Jan 06 10:30:10 +0000 2018,0.6124,0.182,0.818,0.0
+96,97,BBC,RT @bbcthree: This inspirational teacher overcame his stammer and is now showing his students how to do the same. https://t.co/8tl1rVaLf4,Sat Jan 06 10:14:59 +0000 2018,0.34,0.142,0.776,0.082
+97,98,BBC,"Katie has around 16 seizures everyday. But that doesn’t stop her from doing what she loves. 🏃
+#EverydayHeroes https://t.co/J7i1kN3PBY",Sat Jan 06 10:00:03 +0000 2018,0.3612,0.169,0.731,0.1
+98,99,BBC,Researchers at an Oxford hospital have developed AI that can diagnose scans for heart disease &amp; lung cancer.… https://t.co/lsKdBKkHmu,Sat Jan 06 08:59:04 +0000 2018,0.0,0.0,1.0,0.0
+99,100,BBC,🌇😍 @BBC_Culture rounds up the beautiful architecture coming to a city near you in 2018. 👉 https://t.co/15UN3ziNXu https://t.co/2GI15xFS9i,Sat Jan 06 08:00:11 +0000 2018,0.5994,0.206,0.794,0.0
+100,1,CBS,RT @MadamSecretary: Is VP Hurst going to work with or against Elizabeth? Stream a new #MadamSecretary live with CBS All Access: https://t.c…,Mon Jan 08 00:29:51 +0000 2018,0.0,0.0,1.0,0.0
+101,2,CBS,"RT @debrabirnbaum: .@ShawnRyanTV: To me, being on CBS is the opposite of preaching to the choir. #TCA18",Sat Jan 06 20:05:17 +0000 2018,0.0,0.0,1.0,0.0
+102,3,CBS,RT @LivinBiblically: “The truth is it somehow gorgeously straddles both sides...I have had friends come from all different walks of life an…,Sat Jan 06 19:04:08 +0000 2018,0.8271,0.314,0.686,0.0
+103,4,CBS,RT @instinctcbs: “This is a crime show where at the end you’re not reminded of how miserable things are in the world right now…You feel sat…,Sat Jan 06 19:03:38 +0000 2018,-0.7717,0.0,0.774,0.226
+104,5,CBS,"RT @startrekcbs: Star Trek has touched the lives of generations of fans, including the cast and writers of #StarTrekDiscovery. What's your…",Sat Jan 06 00:37:55 +0000 2018,0.0,0.0,1.0,0.0
+105,6,CBS,#StrangeAngel has found its leading man! Jack Reynor will star as famed rocket engineer Jack Parsons in the upcomin… https://t.co/sHkSKABGfd,Sat Jan 06 00:30:53 +0000 2018,0.0,0.0,1.0,0.0
+106,7,CBS,"The streak of new episodes continues! Watch new episodes of #MacGyver, #H50 &amp; #BlueBloods tonight starting at 8/7c.… https://t.co/xs2vbVqBJZ",Fri Jan 05 18:30:42 +0000 2018,0.0,0.0,1.0,0.0
+107,8,CBS,"RT @CBSTweet: #CBSRatingsNews: CBS Sweeps Fourth Quarter Ratings in Daytime, Primetime and Late Night for the First Time Since 2009 https:/…",Fri Jan 05 16:05:58 +0000 2018,0.0,0.0,1.0,0.0
+108,9,CBS,"New year, new episodes! Don't miss all-new episodes of @BigBangTheory, @YoungSheldon, @MomCBS, @LifeInPiecesCBS, an… https://t.co/COf6Qg8Mz1",Thu Jan 04 23:13:02 +0000 2018,0.1867,0.11,0.89,0.0
+109,10,CBS,"Current nominees @LadyGaga, @LittleBigTown, @Pink, Childish Gambino and more will perform live at the #GRAMMYs, Jan… https://t.co/PlLMasNPwD",Thu Jan 04 14:43:09 +0000 2018,-0.296,0.0,0.879,0.121
+110,11,CBS,"RT @startrekcbs: From Airiam to Zefram Cochrane, #StarTrekDiscovery features fascinating new concepts along with classic references. What's…",Wed Jan 03 20:33:09 +0000 2018,0.5423,0.179,0.821,0.0
+111,12,CBS,Torres and Bishop went undercover as a criminal couple on the latest episode of #NCIS. Catch up now:… https://t.co/1iTEneHyJS,Wed Jan 03 19:51:15 +0000 2018,-0.5267,0.0,0.833,0.167
+112,13,CBS,Do you know all the nominees for Artist Of The Year? Get familiar with this year's GRAMMY® Award nominees ahead of… https://t.co/UQa8Mu9PUV,Wed Jan 03 15:00:05 +0000 2018,0.5423,0.143,0.857,0.0
+113,14,CBS,"The new year of new episodes continues tonight with all-new episodes of #AmazingRace, #SEALTeam and #CriminalMinds… https://t.co/bwhNhQgsFC",Wed Jan 03 12:00:01 +0000 2018,0.0,0.0,1.0,0.0
+114,15,CBS,"RT @BullCBS: Tonight, can #Bull prove that a teen accused of robbing a jewelry store isn't responsible for the crime? Tune in at 9/8c or st…",Wed Jan 03 00:47:26 +0000 2018,-0.7692,0.0,0.733,0.267
+115,16,CBS,It's your last chance to choose the pro football player with the best off-the-field talent! Vote now to decide who… https://t.co/6DjwqU0MB9,Tue Jan 02 22:41:51 +0000 2018,0.8516,0.34,0.66,0.0
+116,17,CBS,"New year, new episodes -- all week long! It kicks off with an all-new #NCIS, #Bull and #NCISNOLA tonight starting a… https://t.co/bcmAaUQJtf",Tue Jan 02 08:00:03 +0000 2018,0.0,0.0,1.0,0.0
+117,18,CBS,"Due to #NFL football games overrun, revised start times &amp; lineup for Eastern/Central Time Zones Only:
+#60Minutes 8:… https://t.co/rqOYbM5j0h",Mon Jan 01 01:16:12 +0000 2018,0.0,0.0,1.0,0.0
+118,19,CBS,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE (not ava… https://t.co/NEntvW7QHd,Sun Dec 31 14:37:05 +0000 2017,0.7798,0.264,0.736,0.0
+119,20,CBS,"RT @NoActivityCBS: All season nothing's happened. Now prepare for activity. Stream the #NoActivity season finale Sunday, Dec 31 on CBS All…",Sat Dec 30 20:25:20 +0000 2017,0.0,0.0,1.0,0.0
+120,21,CBS,RT @MadamSecretary: Is VP Hurst going to work with or against Elizabeth? Stream a new #MadamSecretary live with CBS All Access: https://t.c…,Mon Jan 08 00:29:51 +0000 2018,0.0,0.0,1.0,0.0
+121,22,CBS,"RT @debrabirnbaum: .@ShawnRyanTV: To me, being on CBS is the opposite of preaching to the choir. #TCA18",Sat Jan 06 20:05:17 +0000 2018,0.0,0.0,1.0,0.0
+122,23,CBS,RT @LivinBiblically: “The truth is it somehow gorgeously straddles both sides...I have had friends come from all different walks of life an…,Sat Jan 06 19:04:08 +0000 2018,0.8271,0.314,0.686,0.0
+123,24,CBS,RT @instinctcbs: “This is a crime show where at the end you’re not reminded of how miserable things are in the world right now…You feel sat…,Sat Jan 06 19:03:38 +0000 2018,-0.7717,0.0,0.774,0.226
+124,25,CBS,"RT @startrekcbs: Star Trek has touched the lives of generations of fans, including the cast and writers of #StarTrekDiscovery. What's your…",Sat Jan 06 00:37:55 +0000 2018,0.0,0.0,1.0,0.0
+125,26,CBS,#StrangeAngel has found its leading man! Jack Reynor will star as famed rocket engineer Jack Parsons in the upcomin… https://t.co/sHkSKABGfd,Sat Jan 06 00:30:53 +0000 2018,0.0,0.0,1.0,0.0
+126,27,CBS,"The streak of new episodes continues! Watch new episodes of #MacGyver, #H50 &amp; #BlueBloods tonight starting at 8/7c.… https://t.co/xs2vbVqBJZ",Fri Jan 05 18:30:42 +0000 2018,0.0,0.0,1.0,0.0
+127,28,CBS,"RT @CBSTweet: #CBSRatingsNews: CBS Sweeps Fourth Quarter Ratings in Daytime, Primetime and Late Night for the First Time Since 2009 https:/…",Fri Jan 05 16:05:58 +0000 2018,0.0,0.0,1.0,0.0
+128,29,CBS,"New year, new episodes! Don't miss all-new episodes of @BigBangTheory, @YoungSheldon, @MomCBS, @LifeInPiecesCBS, an… https://t.co/COf6Qg8Mz1",Thu Jan 04 23:13:02 +0000 2018,0.1867,0.11,0.89,0.0
+129,30,CBS,"Current nominees @LadyGaga, @LittleBigTown, @Pink, Childish Gambino and more will perform live at the #GRAMMYs, Jan… https://t.co/PlLMasNPwD",Thu Jan 04 14:43:09 +0000 2018,-0.296,0.0,0.879,0.121
+130,31,CBS,"RT @startrekcbs: From Airiam to Zefram Cochrane, #StarTrekDiscovery features fascinating new concepts along with classic references. What's…",Wed Jan 03 20:33:09 +0000 2018,0.5423,0.179,0.821,0.0
+131,32,CBS,Torres and Bishop went undercover as a criminal couple on the latest episode of #NCIS. Catch up now:… https://t.co/1iTEneHyJS,Wed Jan 03 19:51:15 +0000 2018,-0.5267,0.0,0.833,0.167
+132,33,CBS,Do you know all the nominees for Artist Of The Year? Get familiar with this year's GRAMMY® Award nominees ahead of… https://t.co/UQa8Mu9PUV,Wed Jan 03 15:00:05 +0000 2018,0.5423,0.143,0.857,0.0
+133,34,CBS,"The new year of new episodes continues tonight with all-new episodes of #AmazingRace, #SEALTeam and #CriminalMinds… https://t.co/bwhNhQgsFC",Wed Jan 03 12:00:01 +0000 2018,0.0,0.0,1.0,0.0
+134,35,CBS,"RT @BullCBS: Tonight, can #Bull prove that a teen accused of robbing a jewelry store isn't responsible for the crime? Tune in at 9/8c or st…",Wed Jan 03 00:47:26 +0000 2018,-0.7692,0.0,0.733,0.267
+135,36,CBS,It's your last chance to choose the pro football player with the best off-the-field talent! Vote now to decide who… https://t.co/6DjwqU0MB9,Tue Jan 02 22:41:51 +0000 2018,0.8516,0.34,0.66,0.0
+136,37,CBS,"New year, new episodes -- all week long! It kicks off with an all-new #NCIS, #Bull and #NCISNOLA tonight starting a… https://t.co/bcmAaUQJtf",Tue Jan 02 08:00:03 +0000 2018,0.0,0.0,1.0,0.0
+137,38,CBS,"Due to #NFL football games overrun, revised start times &amp; lineup for Eastern/Central Time Zones Only:
+#60Minutes 8:… https://t.co/rqOYbM5j0h",Mon Jan 01 01:16:12 +0000 2018,0.0,0.0,1.0,0.0
+138,39,CBS,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE (not ava… https://t.co/NEntvW7QHd,Sun Dec 31 14:37:05 +0000 2017,0.7798,0.264,0.736,0.0
+139,40,CBS,"RT @NoActivityCBS: All season nothing's happened. Now prepare for activity. Stream the #NoActivity season finale Sunday, Dec 31 on CBS All…",Sat Dec 30 20:25:20 +0000 2017,0.0,0.0,1.0,0.0
+140,41,CBS,RT @startrekcbs: Find out what happens when you boldly go too far. #StarTrekDiscovery continues January 7 on CBS All Access: https://t.co/f…,Sat Dec 30 20:24:58 +0000 2017,0.3612,0.116,0.884,0.0
+141,42,CBS,Stream NC State Wolfpack at Arizona State Sun Devils LIVE today at 3PM ET with a 1-month FREE trial of… https://t.co/8k50thgtip,Fri Dec 29 16:06:02 +0000 2017,0.0857,0.157,0.699,0.144
+142,43,CBS,"In case you missed this star-studded tribute to Carol Burnett's classic comedy series, catch up now! Watch The Caro… https://t.co/wu7BxM9gtm",Thu Dec 28 20:31:01 +0000 2017,0.1511,0.121,0.783,0.096
+143,44,CBS,Some of TV's biggest stars saluted @TheNormanLear's impact on television and culture at The 40th Annual Kennedy Cen… https://t.co/E74ChUW1uE,Thu Dec 28 19:28:22 +0000 2017,0.0,0.0,1.0,0.0
+144,45,CBS,The search is on to find the pro football player with the best off-the-field talent. Vote for your favorite player… https://t.co/R0fb5ngJ16,Wed Dec 27 22:45:05 +0000 2017,0.875,0.357,0.643,0.0
+145,46,CBS,"Celebrate everyone's favorite classic sitcom with Carol Burnett, Vicki Lawrence, and more stars during The Carol Bu… https://t.co/SaiZ9TzBVO",Wed Dec 27 21:04:10 +0000 2017,0.7717,0.295,0.705,0.0
+146,47,CBS,Joy to the world of streaming! Try #CBSAllAccess FREE for 1 month – just use code BINGE by 1/2:… https://t.co/9p1ACnslz6,Wed Dec 27 19:52:02 +0000 2017,0.8452,0.337,0.663,0.0
+147,48,CBS,"Music legend Stevie Wonder salutes @LionelRichie while performing his classic hit, ""Easy"" at The 40th Annual Kenned… https://t.co/7TeDeNyhgo",Wed Dec 27 19:40:34 +0000 2017,0.0,0.0,1.0,0.0
+148,49,CBS,"As the youngest Kennedy Center Honoree in 40 years, @LLCoolJ talks about what motivates him to chase his dreams. Wa… https://t.co/DFY78y99w3",Wed Dec 27 12:00:01 +0000 2017,0.7003,0.234,0.766,0.0
+149,50,CBS,Here's to the 2017 Kennedy Center Honorees! Catch up on an evening of stunning performances and inspiring speeches… https://t.co/jGfANpSCul,Wed Dec 27 07:27:33 +0000 2017,0.8398,0.36,0.64,0.0
+150,51,CBS,This celebration could go all night long! What a great final performance in honor of @LionelRichie. #KCHonors https://t.co/xKLWpKr3v0,Wed Dec 27 04:00:52 +0000 2017,0.8221,0.336,0.664,0.0
+151,52,CBS,RT @MarkAPrinceJr: A #LionelRichie tribute is not complete without 🎶All Night Long🎶 😁 #KCHonors,Wed Dec 27 03:59:48 +0000 2017,0.0,0.0,1.0,0.0
+152,53,CBS,Carmen de Lavallade (@CarmenDances) got emotional during those beautiful performances in her honor. Congratulations… https://t.co/gOCAZpZDpt,Wed Dec 27 03:36:01 +0000 2017,0.8271,0.42,0.58,0.0
+153,54,CBS,RT @llcoolj: Attn: #HIPHOP !!!! We made history!! #KCHonors,Wed Dec 27 03:03:49 +0000 2017,0.0,0.0,1.0,0.0
+154,55,CBS,.@llcoolj is making history! He’s the Kennedy Center’s first hip-hop honoree. #KCHonors https://t.co/kCqkOdUjtu,Wed Dec 27 03:03:26 +0000 2017,0.5255,0.22,0.78,0.0
+155,56,CBS,RT @ErinAnnCullen: #KCHonors is always a night of inspiration. Thank you to these artists for your impact on our country. ❤️🧡💛💚💙💜,Wed Dec 27 02:57:56 +0000 2017,0.7096,0.247,0.753,0.0
+156,57,CBS,Give a round of applause to television pioneer and 2017 Honoree @TheNormanLear! #KCHonors https://t.co/20UosF987x,Wed Dec 27 02:48:52 +0000 2017,0.7345,0.36,0.64,0.0
+157,58,CBS,RT @AliL: This tribute to Norman Lear on #KCHonors is outstanding AND a walk down my childhood TV memory lane. 👏🏻📺,Wed Dec 27 02:45:34 +0000 2017,0.6124,0.174,0.826,0.0
+158,59,CBS,RT @llcoolj: Moments I’ll never forget!!! #KCHonors,Wed Dec 27 02:28:07 +0000 2017,0.3699,0.298,0.702,0.0
+159,60,CBS,.@GloriaEstefan approves of those amazing musical performances in her honor! #KCHonors https://t.co/i3EVYEoKRx,Wed Dec 27 02:26:46 +0000 2017,0.8748,0.526,0.474,0.0
+160,61,CBS,RT @thepickypantry: Beautiful tribute to @GloriaEstefan on the Kennedy Center Honors. Love Mi Tierra! Amazing and inspiring what a fighter…,Wed Dec 27 02:20:11 +0000 2017,0.9601,0.566,0.434,0.0
+161,62,CBS,Time to celebrate the 2017 honorees at The 40th Annual Kennedy Center Honors! Tune in now on CBS and CBS All Access… https://t.co/1OULMpCfPy,Wed Dec 27 02:00:29 +0000 2017,0.8908,0.346,0.654,0.0
+162,63,CBS,"Tonight, @LionelRichie, @LLCoolJ, @GloriaEstefan, @TheNormanLear &amp; Carmen de Lavallade will be recognized at The 40… https://t.co/jZJqNo8h3b",Wed Dec 27 01:08:32 +0000 2017,0.0,0.0,1.0,0.0
+163,64,CBS,"Don't miss the breathtaking performances, standing ovations and moving tributes that will leave you inspired. Here'… https://t.co/imILa52fjz",Tue Dec 26 12:00:01 +0000 2017,0.2415,0.218,0.61,0.173
+164,65,CBS,"Experience the performances and the memories when 2017 Honorees @LionelRichie, @GloriaEstefan, Carmen de Lavallade,… https://t.co/ygbqASVL7t",Mon Dec 25 12:00:05 +0000 2017,0.5106,0.191,0.809,0.0
+165,66,CBS,"Due to NFL overrun CBS is delayed 36mins in Charlotte/NC, Cincinnati/OH, Nashville, Atlanta, New Orleans, Baton Rou… https://t.co/20mnbAhpTm",Mon Dec 25 00:48:24 +0000 2017,-0.2263,0.0,0.899,0.101
+166,67,CBS,"Tonight, get together and enjoy Christmas Eve with a two-hour marathon of your favorite classic sitcoms! Watch The… https://t.co/SCv8TJy9Yp",Sun Dec 24 20:40:42 +0000 2017,0.7574,0.289,0.711,0.0
+167,68,CBS,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE! (Not av… https://t.co/6mR4bRR5Ey,Sun Dec 24 14:17:43 +0000 2017,0.7974,0.273,0.727,0.0
+168,69,CBS,"All In The Family star @RobReiner gives props to legendary television writer, producer and 2017 Kennedy Center Hono… https://t.co/98jc5i63zE",Sun Dec 24 12:30:02 +0000 2017,0.0,0.0,1.0,0.0
+169,70,CBS,"Rapper @BustaRhymes pays tribute to @LLCoolJ, performing his hit song ""Mama Said Knock You Out"" at The 40th Annual… https://t.co/CRjQArUqwd",Sat Dec 23 16:21:17 +0000 2017,0.0,0.0,1.0,0.0
+170,71,CBS,"Oh, what fun it is to stream! Start a 1-month FREE trial of #CBSAllAccess now. Use promo code BINGE by 1/2:… https://t.co/rSAnDJDgbI",Sat Dec 23 15:00:02 +0000 2017,0.8236,0.286,0.714,0.0
+171,72,CBS,CBS stars are glowing with holiday spirit! See how the stars are getting festive this season:… https://t.co/7qYTHoxFIc,Sat Dec 23 12:37:04 +0000 2017,0.7712,0.355,0.645,0.0
+172,73,CBS,Spread some holiday cheer and laugh along with Dick Van Dyke and Mary Tyler Moore in two back-to-back episodes of T… https://t.co/N89JoYvXZW,Sat Dec 23 07:24:44 +0000 2017,0.743,0.311,0.583,0.107
+173,74,CBS,Come home for the holidays with Lucy and Ricky in the I Love Lucy Christmas Special! Stream the full show:… https://t.co/s7f9mjEtER,Sat Dec 23 06:39:45 +0000 2017,0.8687,0.365,0.635,0.0
+174,75,CBS,"Tonight at 9/8c, gather the family for two hilarious episodes of this classic sitcom in The Dick Van Dyke Show- Now… https://t.co/YcyECVr2NN",Sat Dec 23 01:38:37 +0000 2017,-0.1531,0.104,0.769,0.127
+175,76,CBS,Get ready to laugh in the holidays tonight with Lucy and the gang in the I Love Lucy Christmas Special at 8/7c! Str… https://t.co/txU2TwXWOg,Sat Dec 23 00:39:52 +0000 2017,0.9422,0.469,0.531,0.0
+176,77,CBS,"Tonight, ring in the holidays with two back-to-back episodes of a timeless comedy classic, now in color! Watch the… https://t.co/skJsgJdQel",Fri Dec 22 19:35:35 +0000 2017,0.6588,0.241,0.759,0.0
+177,78,CBS,"Groundbreaking, daring, fearless. This is CBS All Access Originals. 
+
+Sign up now to watch @StarTrekCBS,… https://t.co/kvPsJafYrN",Fri Dec 22 18:03:20 +0000 2017,0.6597,0.278,0.722,0.0
+178,79,CBS,2017 Honoree @LLCoolJ is the first hip-hop artist recognized at the #KCHonors! Learn more about the @NCISLA star's… https://t.co/eK91KdBNpG,Fri Dec 22 14:04:52 +0000 2017,0.5255,0.159,0.841,0.0
+179,80,CBS,"She's at it again! Tomorrow, relive Lucy's hilarious antics during the I Love Lucy Christmas Special at 8/7c on CBS… https://t.co/g01UGGLEDk",Thu Dec 21 12:04:04 +0000 2017,0.8718,0.368,0.632,0.0
+180,81,CBS,"RT @survivorcbs: 6 heroes, 6 healers, 6 hustlers, but only 1 sole #Survivor. Ready to find out who it is? Tune in to the #SurvivorFinale no…",Thu Dec 21 01:04:27 +0000 2017,0.6597,0.213,0.787,0.0
+181,82,CBS,Watch @kelly_clarkson deliver a moving performance of 'Christmas Eve' during A Home for the Holidays with… https://t.co/TAcstl7VYh,Wed Dec 20 23:00:04 +0000 2017,0.3818,0.157,0.843,0.0
+182,83,CBS,"In two days, celebrate the holidays with the gang with two back-to-back episodes of the classic sitcom during the I… https://t.co/FRr8jX7MXZ",Wed Dec 20 21:08:10 +0000 2017,0.743,0.249,0.751,0.0
+183,84,CBS,2017 Honoree @LLCoolJ salutes James Brown for paving the way for artists like himself. Don't miss The 40th Annual K… https://t.co/310Wfk7EoW,Wed Dec 20 20:10:15 +0000 2017,0.7222,0.281,0.719,0.0
+184,85,CBS,Singer-songwriter @JoshGroban delivers a powerhouse performance while raising awareness of adoption through foster… https://t.co/FiQKJdx7Ty,Wed Dec 20 19:31:47 +0000 2017,0.0,0.0,1.0,0.0
+185,86,CBS,Do you know all the nominees for Album Of The Year? Get familiar with this year's GRAMMY®  Award nominees ahead of… https://t.co/GYnxLT3n4p,Wed Dec 20 15:30:01 +0000 2017,0.5423,0.143,0.857,0.0
+186,87,CBS,RT @survivorcbs: This finale is going to be unlike any ending in the history of #Survivor. Don't miss the finale + reunion all starting Wed…,Wed Dec 20 01:01:19 +0000 2017,0.1139,0.059,0.941,0.0
+187,88,CBS,"This Friday, gather around the tree and celebrate the holidays with Lucille Ball! Watch two colorized back-to-back… https://t.co/4wopbmS4ez",Wed Dec 20 00:14:34 +0000 2017,0.7644,0.292,0.708,0.0
+188,89,CBS,Kevin and Vanessa took a trip back in time on last night's #KevinCanWait. Watch the latest episode now:… https://t.co/SAqbLOd1Pg,Tue Dec 19 21:12:50 +0000 2017,0.0,0.0,1.0,0.0
+189,90,CBS,"Find out how to watch A Home for the Holidays with @JoshGroban, featuring performances by @Kelly_Clarkson,… https://t.co/Y6zrR9PigH",Tue Dec 19 21:00:03 +0000 2017,0.3818,0.148,0.852,0.0
+190,91,CBS,"In one week, celebrate a night of legends when @LionelRichie, @GloriaEstefan, Carmen de Lavallade (@CarmenDances),… https://t.co/u7eXxb521H",Tue Dec 19 15:30:04 +0000 2017,0.5719,0.209,0.791,0.0
+191,92,CBS,"Kick off The 60th Annual #GRAMMYs with @NancyODell, @KevinFrazier &amp; @KeltieKnight as they go behind the scenes with… https://t.co/J6KDEGV1g1",Tue Dec 19 14:42:58 +0000 2017,0.0,0.0,1.0,0.0
+192,93,CBS,"Country crooner Luke Bryan (@LukeBryanOnline) honors @LionelRichie with a smooth rendition of his original song, 'P… https://t.co/XIF7ESukR8",Tue Dec 19 00:39:07 +0000 2017,0.6808,0.286,0.714,0.0
+193,94,CBS,The search is on to find the pro football player with the best off-the-field talent. Vote for your favorite player… https://t.co/7uXC3SEz96,Mon Dec 18 22:53:34 +0000 2017,0.875,0.357,0.643,0.0
+194,95,CBS,"It's the greatest gift a family can give. Celebrate adoption with superstars @JoshGroban, @Kelly_Clarkson,… https://t.co/1wc6meuGF7",Mon Dec 18 21:32:25 +0000 2017,0.8957,0.495,0.505,0.0
+195,96,CBS,"Mark your calendars! @NCISLA star @LLCoolJ will host MVP: Most Valuable Performer, a new interactive talent show to… https://t.co/s2LilAv50X",Mon Dec 18 18:40:55 +0000 2017,0.7569,0.288,0.712,0.0
+196,97,CBS,"Approximate start times for #CBS tonight (East &amp; Midwest):
+#60Minutes 7:38p/6:38c
+#WisdomoftheCrowd 8:38p/7:38c… https://t.co/tFKrUBcv8B",Mon Dec 18 00:42:56 +0000 2017,0.0,0.0,1.0,0.0
+197,98,CBS,"RT @kencen: Look back on favorite #KCHonors tributes before the Dec. 26 @CBS broadcast! From 2002: @aliciakeys sings ""Bridge Over Troubled…",Mon Dec 18 00:00:40 +0000 2017,0.5093,0.141,0.859,0.0
+198,99,CBS,"This Friday, you won't want to miss this priceless treasure when the I Love Lucy Christmas Special airs at 8/7c on… https://t.co/oyC9YDno00",Sun Dec 17 17:48:58 +0000 2017,0.8527,0.38,0.576,0.044
+199,1,CNN,Sterling K. Brown makes #GoldenGlobes history as the first black actor to win for his leading performance in a TV d… https://t.co/d6LkZjEx4C,Mon Jan 08 05:02:11 +0000 2018,0.5859,0.16,0.84,0.0
+200,2,CNN,"It takes 300 people, 12,000 parts and a year to make a single Steinway &amp; Sons piano. Here’s how the pianos are made… https://t.co/QXXndYEb7E",Mon Jan 08 05:01:51 +0000 2018,0.0,0.0,1.0,0.0
+201,3,CNN,"Oprah Winfrey may have squashed speculation of a potential presidential bid in 2020, but #GoldenGlobes host Seth Me… https://t.co/JSp8DMaWWl",Mon Jan 08 04:44:03 +0000 2018,0.0,0.0,1.0,0.0
+202,4,CNN,Ripple's recent price spike has made it the second most valuable cryptocurrency after bitcoin. Here's how it works… https://t.co/guOHyzhCQS,Mon Jan 08 04:30:14 +0000 2018,0.5256,0.159,0.841,0.0
+203,5,CNN,Oprah Winfrey became the first black woman to receive the Cecil B. DeMille Award at the #GoldenGlobes and accepted… https://t.co/yCc1F0pf5r,Mon Jan 08 04:26:19 +0000 2018,0.5423,0.156,0.844,0.0
+204,6,CNN,Aziz Ansari is the first Asian male actor to win best leading performance in a TV musical or comedy at the… https://t.co/m7iR3aWDmm,Mon Jan 08 04:22:12 +0000 2018,0.8885,0.368,0.632,0.0
+205,7,CNN,RT @CNNent: That's a wrap! Thanks for following along with our #GoldenGlobes live blog. https://t.co/Ka6XYBXidk https://t.co/yHeD8tmZsh,Mon Jan 08 04:20:03 +0000 2018,0.4926,0.186,0.814,0.0
+206,8,CNN,"JetBlue says it's handing out $21 million worth of bonuses to employees because of the corporate tax cut. All 21,00… https://t.co/DWFUUbMKQ6",Mon Jan 08 04:15:07 +0000 2018,0.5267,0.215,0.703,0.082
+207,9,CNN,RT @CNNent: In case you missed tonight's theme at the #GoldenGlobes. https://t.co/WkpndcbYHX https://t.co/EhStbCtQAz,Mon Jan 08 04:14:43 +0000 2018,-0.296,0.0,0.845,0.155
+208,10,CNN,"RT @CNNent: ""Three Billboards Outside Ebbing, Missouri"" wins Best Motion Picture - Drama. #GoldenGlobes @3billboards
+https://t.co/GIwbHVLxY…",Mon Jan 08 04:10:22 +0000 2018,0.836,0.378,0.622,0.0
+209,11,CNN,"RT @CNNent: Frances McDormand wins Best Performance by an Actress in a Motion Picture - Drama for @3billboards #GoldenGlobes
+https://t.co/Q…",Mon Jan 08 04:02:33 +0000 2018,0.836,0.331,0.669,0.0
+210,12,CNN,Trump's first-year jobs record was strong. Just not as strong as Obama's last year. https://t.co/2G2xhYQzFl https://t.co/GIHktn0wkg,Mon Jan 08 04:00:21 +0000 2018,0.765,0.32,0.68,0.0
+211,13,CNN,"A night of firsts at the #GoldenGlobes ...
+
+• Sterling K. Brown: first black actor to win for leading performance i… https://t.co/VYDOrS9sz1",Mon Jan 08 03:59:20 +0000 2018,0.5859,0.167,0.833,0.0
+212,14,CNN,"RT @CNNent: Gary Oldman wins Best Performance by an Actor in a Motion Picture - Drama for @DarkestHour #GoldenGlobes
+https://t.co/BBqlVyg5u…",Mon Jan 08 03:56:23 +0000 2018,0.836,0.331,0.669,0.0
+213,15,CNN,"RT @CNNent: Saoirse Ronan wins Best Performance by an Actress in a Motion Picture - Musical or Comedy for @LadyBirdMovie #GoldenGlobes
+http…",Mon Jan 08 03:53:12 +0000 2018,0.886,0.38,0.62,0.0
+214,16,CNN,"RT @CNNent: .@LadyBirdMovie wins Best Motion Picture - Musical or Comedy. #GoldenGlobes
+https://t.co/osMplZhOST https://t.co/ZGKi90V5vu",Mon Jan 08 03:47:25 +0000 2018,0.886,0.51,0.49,0.0
+215,17,CNN,RT @CNNent: The #GoldenGlobes continue to make history. Aziz Ansari is the first Asian male actor to win best leading performance in a TV m…,Mon Jan 08 03:45:10 +0000 2018,0.8402,0.267,0.733,0.0
+216,18,CNN,"RT @CNNent: ""A new day is on the horizon."" Oprah Winfrey accepts her Cecil B. DeMille Award with a message to the young girls watching. htt…",Mon Jan 08 03:39:03 +0000 2018,0.7003,0.201,0.799,0.0
+217,19,CNN,"""There's only one person whose name is a verb, an adjective, and a feeling. And that is Oprah.""
+
+Reese Witherspoon… https://t.co/aUlPB4jIit",Mon Jan 08 03:37:23 +0000 2018,0.128,0.077,0.923,0.0
+218,20,CNN,"RT @CNNent: ""Here are the ALL-MALE nominees."" Natalie Portman presents the names for best director of a motion picture. #GoldenGlobes https…",Mon Jan 08 03:33:04 +0000 2018,0.6369,0.181,0.819,0.0
+219,21,CNN,Sterling K. Brown makes #GoldenGlobes history as the first black actor to win for his leading performance in a TV d… https://t.co/d6LkZjEx4C,Mon Jan 08 05:02:11 +0000 2018,0.5859,0.16,0.84,0.0
+220,22,CNN,"It takes 300 people, 12,000 parts and a year to make a single Steinway &amp; Sons piano. Here’s how the pianos are made… https://t.co/QXXndYEb7E",Mon Jan 08 05:01:51 +0000 2018,0.0,0.0,1.0,0.0
+221,23,CNN,"Oprah Winfrey may have squashed speculation of a potential presidential bid in 2020, but #GoldenGlobes host Seth Me… https://t.co/JSp8DMaWWl",Mon Jan 08 04:44:03 +0000 2018,0.0,0.0,1.0,0.0
+222,24,CNN,Ripple's recent price spike has made it the second most valuable cryptocurrency after bitcoin. Here's how it works… https://t.co/guOHyzhCQS,Mon Jan 08 04:30:14 +0000 2018,0.5256,0.159,0.841,0.0
+223,25,CNN,Oprah Winfrey became the first black woman to receive the Cecil B. DeMille Award at the #GoldenGlobes and accepted… https://t.co/yCc1F0pf5r,Mon Jan 08 04:26:19 +0000 2018,0.5423,0.156,0.844,0.0
+224,26,CNN,Aziz Ansari is the first Asian male actor to win best leading performance in a TV musical or comedy at the… https://t.co/m7iR3aWDmm,Mon Jan 08 04:22:12 +0000 2018,0.8885,0.368,0.632,0.0
+225,27,CNN,RT @CNNent: That's a wrap! Thanks for following along with our #GoldenGlobes live blog. https://t.co/Ka6XYBXidk https://t.co/yHeD8tmZsh,Mon Jan 08 04:20:03 +0000 2018,0.4926,0.186,0.814,0.0
+226,28,CNN,"JetBlue says it's handing out $21 million worth of bonuses to employees because of the corporate tax cut. All 21,00… https://t.co/DWFUUbMKQ6",Mon Jan 08 04:15:07 +0000 2018,0.5267,0.215,0.703,0.082
+227,29,CNN,RT @CNNent: In case you missed tonight's theme at the #GoldenGlobes. https://t.co/WkpndcbYHX https://t.co/EhStbCtQAz,Mon Jan 08 04:14:43 +0000 2018,-0.296,0.0,0.845,0.155
+228,30,CNN,"RT @CNNent: ""Three Billboards Outside Ebbing, Missouri"" wins Best Motion Picture - Drama. #GoldenGlobes @3billboards
+https://t.co/GIwbHVLxY…",Mon Jan 08 04:10:22 +0000 2018,0.836,0.378,0.622,0.0
+229,31,CNN,"RT @CNNent: Frances McDormand wins Best Performance by an Actress in a Motion Picture - Drama for @3billboards #GoldenGlobes
+https://t.co/Q…",Mon Jan 08 04:02:33 +0000 2018,0.836,0.331,0.669,0.0
+230,32,CNN,Trump's first-year jobs record was strong. Just not as strong as Obama's last year. https://t.co/2G2xhYQzFl https://t.co/GIHktn0wkg,Mon Jan 08 04:00:21 +0000 2018,0.765,0.32,0.68,0.0
+231,33,CNN,"A night of firsts at the #GoldenGlobes ...
+
+• Sterling K. Brown: first black actor to win for leading performance i… https://t.co/VYDOrS9sz1",Mon Jan 08 03:59:20 +0000 2018,0.5859,0.167,0.833,0.0
+232,34,CNN,"RT @CNNent: Gary Oldman wins Best Performance by an Actor in a Motion Picture - Drama for @DarkestHour #GoldenGlobes
+https://t.co/BBqlVyg5u…",Mon Jan 08 03:56:23 +0000 2018,0.836,0.331,0.669,0.0
+233,35,CNN,"RT @CNNent: Saoirse Ronan wins Best Performance by an Actress in a Motion Picture - Musical or Comedy for @LadyBirdMovie #GoldenGlobes
+http…",Mon Jan 08 03:53:12 +0000 2018,0.886,0.38,0.62,0.0
+234,36,CNN,"RT @CNNent: .@LadyBirdMovie wins Best Motion Picture - Musical or Comedy. #GoldenGlobes
+https://t.co/osMplZhOST https://t.co/ZGKi90V5vu",Mon Jan 08 03:47:25 +0000 2018,0.886,0.51,0.49,0.0
+235,37,CNN,RT @CNNent: The #GoldenGlobes continue to make history. Aziz Ansari is the first Asian male actor to win best leading performance in a TV m…,Mon Jan 08 03:45:10 +0000 2018,0.8402,0.267,0.733,0.0
+236,38,CNN,"RT @CNNent: ""A new day is on the horizon."" Oprah Winfrey accepts her Cecil B. DeMille Award with a message to the young girls watching. htt…",Mon Jan 08 03:39:03 +0000 2018,0.7003,0.201,0.799,0.0
+237,39,CNN,"""There's only one person whose name is a verb, an adjective, and a feeling. And that is Oprah.""
+
+Reese Witherspoon… https://t.co/aUlPB4jIit",Mon Jan 08 03:37:23 +0000 2018,0.128,0.077,0.923,0.0
+238,40,CNN,"RT @CNNent: ""Here are the ALL-MALE nominees."" Natalie Portman presents the names for best director of a motion picture. #GoldenGlobes https…",Mon Jan 08 03:33:04 +0000 2018,0.6369,0.181,0.819,0.0
+239,41,CNN,North Korea has accepted South Korea's proposal for official talks. The person-to-person talks will be held on Janu… https://t.co/albDIuSESC,Mon Jan 08 03:30:18 +0000 2018,0.2732,0.104,0.896,0.0
+240,42,CNN,"RT @CNNent: .@Big_Little_Lies wins Best Limited Series or TV Movie. #GoldenGlobes
+https://t.co/hEOWDlTJPh https://t.co/dn7mjoReHH",Mon Jan 08 03:30:11 +0000 2018,0.7906,0.399,0.505,0.096
+241,43,CNN,RT @CNNent: Oprah Winfrey electrifies the #GoldenGlobes while accepting a lifetime achievement award. https://t.co/bz86uJApg0 https://t.co/…,Mon Jan 08 03:27:22 +0000 2018,0.7269,0.337,0.663,0.0
+242,44,CNN,RT @CNNent: True story. Reese Witherspoon introduces Oprah Winfrey for the Cecil B. DeMille lifetime achievement award at the #GoldenGlobes…,Mon Jan 08 03:23:28 +0000 2018,0.743,0.259,0.741,0.0
+243,45,CNN,"RT @CNNent: Guillermo del Toro wins Best Director - Motion Picture for @shapeofwater #GoldenGlobes @RealGDT
+https://t.co/FiVRxe2sgc https:/…",Mon Jan 08 03:21:36 +0000 2018,0.836,0.361,0.639,0.0
+244,46,CNN,Aziz Ansari wins Best Performance by an Actor in a Television Series - Musical or Comedy for Master of None… https://t.co/B2OQAt6060,Mon Jan 08 03:13:23 +0000 2018,0.886,0.394,0.606,0.0
+245,47,CNN,RT @CNNent: The Marvelous Mrs. Maisel wins Best Television Series - Musical or Comedy. #GoldenGlobes @MaiselTV https://t.co/HhzYKeNKuG http…,Mon Jan 08 03:04:46 +0000 2018,0.936,0.524,0.476,0.0
+246,48,CNN,"RT @CNNent: .@AzizAnsari wins Best Performance by an Actor in a Television Series - Musical or Comedy for @MasterofNone #GoldenGlobes
+https…",Mon Jan 08 03:04:35 +0000 2018,0.886,0.394,0.606,0.0
+247,49,CNN,This Juilliard musician spends weekend afternoons playing the New York subway. Here's why. https://t.co/DlnOXRTvBN https://t.co/BUGECW7PCr,Mon Jan 08 03:01:17 +0000 2018,0.2023,0.114,0.886,0.0
+248,50,CNN,RT @CNNent: Ewan McGregor wins Best Performance by an Actor in a Limited Series or TV Movie for @FargoFX #GoldenGlobes  https://t.co/hZDocj…,Mon Jan 08 02:51:53 +0000 2018,0.7906,0.295,0.634,0.071
+249,51,CNN,RT @CNNent: .@InTheFadeFilm wins Best Motion Picture - Foreign Language. #GoldenGlobes https://t.co/VQGy43zJR5 https://t.co/2XLEEc8E3V,Mon Jan 08 02:46:55 +0000 2018,0.836,0.441,0.559,0.0
+250,52,CNN,The red carpet has an unexpected history going far beyond hosting the #GoldenGlobes . Here's why… https://t.co/XqFlWba2lK,Mon Jan 08 02:46:39 +0000 2018,0.0,0.0,1.0,0.0
+251,53,CNN,"Did your favorite win at the #GoldenGlobes? 
+
+• The winners list: https://t.co/SJPglAR8IZ
+• Live updates:… https://t.co/6H0yUlQxN0",Mon Jan 08 02:38:46 +0000 2018,0.872,0.474,0.526,0.0
+252,54,CNN,RT @CNNent: Martin McDonagh wins Best Screenplay - Motion Picture for @3Billboards #GoldenGlobes https://t.co/mXhPdGTXS8 https://t.co/joIYP…,Mon Jan 08 02:38:13 +0000 2018,0.836,0.397,0.603,0.0
+253,55,CNN,"RT @CNNent: .@AllisonBJanney wins Best Performance by an Actress in a Supporting Role in a Motion Picture for @ITonyaMovie #GoldenGlobes
+ht…",Mon Jan 08 02:31:27 +0000 2018,0.8957,0.403,0.597,0.0
+254,56,CNN,"World's longest glass bridge opens in Hebei, China https://t.co/909lraeHtn (via @CNNTravel) https://t.co/DL1QPStunA",Mon Jan 08 02:30:19 +0000 2018,0.0,0.0,1.0,0.0
+255,57,CNN,RT @CNNent: #PixarCoco wins Best Motion Picture - Animated. #GoldenGlobes https://t.co/0zPEfgLAnB https://t.co/BmuIhwcX9G,Mon Jan 08 02:26:46 +0000 2018,0.836,0.467,0.533,0.0
+256,58,CNN,Sterling K. Brown makes #GoldenGlobes history as the first black actor to win for his leading performance in a TV d… https://t.co/QI1CunVlvl,Mon Jan 08 02:25:52 +0000 2018,0.5859,0.16,0.84,0.0
+257,59,CNN,"RT @CNNent: .@LauraDern wins Best Performance by an Actress in a Supporting Role in a Series, Limited Series or TV Movie for @Big_Little_Li…",Mon Jan 08 02:20:30 +0000 2018,0.872,0.364,0.572,0.064
+258,60,CNN,RT @CNNent: Sterling K. Brown makes #GoldenGlobes history as the first black actor to win for his leading performance in a TV drama. https:…,Mon Jan 08 02:19:48 +0000 2018,0.5859,0.147,0.853,0.0
+259,61,CNN,"Oprah Winfrey may have squashed speculation of a potential presidential bid in 2020, but #GoldenGlobes host Seth Me… https://t.co/OXio4qeCQE",Mon Jan 08 02:16:26 +0000 2018,0.0,0.0,1.0,0.0
+260,62,CNN,"RT @CNNent: James Franco wins Best Performance by an Actor in a Motion Picture - Musical or Comedy for @DisasterArtist #GoldenGlobes
+https:…",Mon Jan 08 02:10:59 +0000 2018,0.886,0.38,0.62,0.0
+261,63,CNN,Hollywood didn't just show up at the #GoldenGlobes intent on making a statement about women -- it also honored them. https://t.co/Xxb15ekJoc,Mon Jan 08 02:05:51 +0000 2018,0.5859,0.167,0.833,0.0
+262,64,CNN,"RT @CNNent: ""This Is Me"" wins Best Original Song - Motion Picture for @GreatestShowman #GoldenGlobes
+https://t.co/PRHEeV5dRV https://t.co/f…",Mon Jan 08 02:03:28 +0000 2018,0.8807,0.44,0.56,0.0
+263,65,CNN,"Sorry, cat lovers, there's scientific proof that dogs are smarter https://t.co/9ADu2XYnwu https://t.co/N2MtNJAE9h",Mon Jan 08 02:00:19 +0000 2018,0.7269,0.383,0.539,0.078
+264,66,CNN,"RT @CNNent: Alexandre Desplat wins Best Original Score - Motion Picture for @shapeofwater #GoldenGlobes
+https://t.co/gCHqdBeTTE https://t.c…",Mon Jan 08 01:59:46 +0000 2018,0.8807,0.459,0.541,0.0
+265,67,CNN,"RT @CNNent: Alexander Skarsgård wins Best Performance by an Actor in a Supporting Role in a Series, Limited Series or TV Movie for @Big_Lit…",Mon Jan 08 01:57:54 +0000 2018,0.872,0.352,0.586,0.062
+266,68,CNN,Find out the winners from tonight's #GoldenGlobes as they are announced here: https://t.co/HTybCsUOAw https://t.co/KihLWS28Fg,Mon Jan 08 01:56:55 +0000 2018,0.4767,0.193,0.807,0.0
+267,69,CNN,"RT @CNNent: #HandmaidsTale wins Best Television Series - Drama. #GoldenGlobes @HandmaidsonHulu
+https://t.co/LuhYHym490 https://t.co/2A3tWR9…",Mon Jan 08 01:48:04 +0000 2018,0.836,0.441,0.559,0.0
+268,70,CNN,RT @CNNent: Sterling K. Brown wins Best Performance by an Actor in a Television Series - Drama for #ThisisUs #GoldenGlobes @SterlingKBrown…,Mon Jan 08 01:46:19 +0000 2018,0.836,0.317,0.683,0.0
+269,71,CNN,"RT @CNNent: Corrected: Rachel Brosnahan wins Best Performance by an Actress in a TV comedy series for #MrsMaisel. #GoldenGlobes
+https://t.c…",Mon Jan 08 01:44:16 +0000 2018,0.886,0.394,0.606,0.0
+270,72,CNN,A group of A-list actresses brought activists for gender and racial justice to the #GoldenGlobes red carpet https://t.co/klq1SSpFXA,Mon Jan 08 01:39:00 +0000 2018,0.5267,0.175,0.825,0.0
+271,73,CNN,RT @CNNent: Elisabeth Moss wins Best Performance by an Actress in a Television Series - Drama for #HandmaidsTale #GoldenGlobes https://t.co…,Mon Jan 08 01:34:19 +0000 2018,0.836,0.331,0.669,0.0
+272,74,CNN,RT @CNNent: Rachel Brosnahan @RachelBros wins Best Performance by an Actress in a Motion Picture - Musical or Comedy for #MrsMaisel. #Golde…,Mon Jan 08 01:32:05 +0000 2018,0.886,0.38,0.62,0.0
+273,75,CNN,Keep track of all the winners from tonight's Golden Globe Awards here: https://t.co/uTVDvLjqIK https://t.co/LkuMA1OaVo,Mon Jan 08 01:30:38 +0000 2018,0.7269,0.337,0.663,0.0
+274,76,CNN,"ABC is staging ""Scandal"" and ""How to Get Away with Murder"" crossover episodes https://t.co/6FGHLtIpGN https://t.co/EAyaPFUUxI",Mon Jan 08 01:30:08 +0000 2018,-0.6908,0.0,0.749,0.251
+275,77,CNN,"RT @CNNent: Sam Rockwell wins Best Performance by an Actor in a Supporting Role in a Motion Picture for @3Billboards. #GoldenGlobes
+https:/…",Mon Jan 08 01:21:41 +0000 2018,0.8957,0.388,0.612,0.0
+276,78,CNN,"RT @CNNent: Nicole Kidman wins Best Performance by an Actress in a Limited Series or TV Movie for @Big_Little_Lies #GoldenGlobes
+https://t.…",Mon Jan 08 01:21:27 +0000 2018,0.7906,0.295,0.634,0.071
+277,79,CNN,The dresses are black. The pins say #TimesUp. Sunday's Golden Globes are the first awards show since the Harvey Wei… https://t.co/J0wC5DlqUf,Mon Jan 08 01:10:34 +0000 2018,0.4588,0.13,0.87,0.0
+278,80,CNN,Children's Health Insurance Program (CHIP) funding could run out as soon as this month in some states… https://t.co/Ce2OpVmHo1,Mon Jan 08 01:00:18 +0000 2018,0.0,0.0,1.0,0.0
+279,81,CNN,"All eyes will be on Hollywood on Sunday night for the 75th Annual Golden Globe Awards, and not just for stargazing https://t.co/AfQc8xXNWX",Mon Jan 08 00:50:49 +0000 2018,0.4588,0.125,0.875,0.0
+280,82,CNN,"""We've got a crazy leading the North Korea and we've got a crazy in the White House."" Democratic Rep. John Garamend… https://t.co/sJHTmdn94r",Mon Jan 08 00:31:59 +0000 2018,-0.5859,0.0,0.789,0.211
+281,83,CNN,"Seth Meyers will host the 75th Annual Golden Globe Awards, where roughly 90 members of the Hollywood Foreign Press… https://t.co/K7nhL8VbXP",Mon Jan 08 00:30:56 +0000 2018,0.4588,0.136,0.864,0.0
+282,84,CNN,Pope Francis is having cards printed and distributed showing a 1945 photo of victims of the nuclear bombing of Naga… https://t.co/Qv5IG3bfHa,Mon Jan 08 00:00:27 +0000 2018,-0.3182,0.0,0.892,0.108
+283,85,CNN,"JetBlue says it's handing out $21 million worth of bonuses to employees because of the corporate tax cut. All 21,00… https://t.co/zZqJOSRMp1",Sun Jan 07 23:30:17 +0000 2018,0.5267,0.215,0.703,0.082
+284,86,CNN,"How good the market under President Trump really is, in one chart https://t.co/LbKyzKttJK https://t.co/v4FRDFTsnm",Sun Jan 07 23:00:20 +0000 2018,0.4404,0.182,0.818,0.0
+285,87,CNN,President Trump's first-year jobs record was strong. Just not as strong as Obama's last year.… https://t.co/TVAODRSUN9,Sun Jan 07 22:45:08 +0000 2018,0.765,0.32,0.68,0.0
+286,88,CNN,"The Trump administration has revealed its master plan for securing the border — and it's going to cost $33 billion,… https://t.co/NQBatUrJcM",Sun Jan 07 22:30:06 +0000 2018,0.3182,0.108,0.892,0.0
+287,89,CNN,"The skeletons of two ancient infants, who lived and died in Alaska 11,500 years ago, are helping tell the story of… https://t.co/h44WrSRDmc",Sun Jan 07 22:15:08 +0000 2018,-0.34,0.085,0.775,0.14
+288,90,CNN,"""We're in a real constitutional crisis."" Investigative reporter Carl Bernstein says the task of reporting on Presid… https://t.co/zoyWnqMcHs",Sun Jan 07 22:00:21 +0000 2018,0.0,0.0,1.0,0.0
+289,91,CNN,"World's longest glass bridge opens in Hebei, China https://t.co/qlgLreGWd7 (via @CNNTravel) https://t.co/OFhnsCXGVO",Sun Jan 07 21:45:07 +0000 2018,0.0,0.0,1.0,0.0
+290,92,CNN,"""I think that he (President Trump) always has to keep (North Korean leader) Kim (Jong Un) on his toes."" - US ambass… https://t.co/46WNth7M6i",Sun Jan 07 21:30:06 +0000 2018,0.0,0.0,1.0,0.0
+291,93,CNN,The 24 most grotesque lines from Jake Tapper's interview of White House senior adviser Stephen Miller… https://t.co/ZLfTHW5TpW,Sun Jan 07 21:15:07 +0000 2018,0.0,0.0,1.0,0.0
+292,94,CNN,Women share #WhyWeWearBlack ahead of Golden Globes https://t.co/iW0GJiOcdW https://t.co/rRtZ5TQnb5,Sun Jan 07 21:00:09 +0000 2018,0.296,0.216,0.784,0.0
+293,95,CNN,Secretary of State Rex Tillerson's new line: President Trump is right on everything https://t.co/0Fjo7jSt6r (via @CNNOpinion),Sun Jan 07 20:45:04 +0000 2018,0.0,0.0,1.0,0.0
+294,96,CNN,CIA director defends President Trump's mental abilities https://t.co/M8fQoFNtj9 https://t.co/cDtkvoQA0T,Sun Jan 07 20:30:09 +0000 2018,0.25,0.2,0.8,0.0
+295,97,CNN,Water leak floods crowded JFK Airport baggage claim https://t.co/lyAB2vXjz4 https://t.co/ZzjBrTMoK5,Sun Jan 07 20:15:10 +0000 2018,-0.34,0.0,0.789,0.211
+296,98,CNN,"""Fire and Fury"" author Michael Wolff says the 25th Amendment — which addresses the transition of powers if a presid… https://t.co/9DJWpEtppT",Sun Jan 07 20:00:09 +0000 2018,-0.7269,0.0,0.736,0.264
+297,99,CNN,"Here is former White House chief strategist Steve Bannon's full statement on comments attributed to him in ""Fire an… https://t.co/WFgbuLgpEn",Sun Jan 07 19:45:09 +0000 2018,-0.34,0.0,0.888,0.112
+298,100,CNN,"Two commercial planes collide on the ground in Toronto, sparking a small fire and prompting the evacuation of dozen… https://t.co/tozpXKwIAc",Sun Jan 07 19:30:56 +0000 2018,-0.4019,0.0,0.821,0.179
+299,1,FoxNews,".@MissDiagnosis: ""Morally, [Noor Salman's] as implicated in the killings as her husband."" https://t.co/oNGJxeEPei https://t.co/4lR3VaxbGg",Mon Jan 08 04:56:04 +0000 2018,-0.6705,0.0,0.743,0.257
+300,2,FoxNews,".@ThomTillis: ""There's a compelling humanitarian reason for securing the border: Thousands of people die trying to… https://t.co/mt4fch74wm",Mon Jan 08 04:56:03 +0000 2018,-0.1779,0.199,0.616,0.185
+301,3,FoxNews,Do you agree with Gov. @MartinOMalley? https://t.co/A7BFQiEjQS https://t.co/wpYdnL34eP,Mon Jan 08 04:53:03 +0000 2018,0.3612,0.263,0.737,0.0
+302,4,FoxNews,"On ""Sunday Morning Futures with @MariaBartiromo,"" Sen. @ThomTillis slammed Democrats who have changed their tune ra… https://t.co/2XuiHOozSG",Mon Jan 08 04:52:01 +0000 2018,0.0,0.0,1.0,0.0
+303,5,FoxNews,"This morning on ""Fox &amp; Friends,"" hosts @PeteHegseth, @LisaMarieBoothe, and @GriffJenkins pointed out the big change… https://t.co/cQWUsaaoH6",Mon Jan 08 04:45:02 +0000 2018,0.0,0.0,1.0,0.0
+304,6,FoxNews,.@AlanDersh Blasts Fellow Dems Over Claims Trump Is Mentally Ill https://t.co/HWAh4Y9nmB https://t.co/26usWuaNZQ,Mon Jan 08 04:44:03 +0000 2018,-0.4215,0.0,0.797,0.203
+305,7,FoxNews,".@LawrenceBJones3: ""I don't even believe we should be talking about this DACA issue until we take care of American… https://t.co/t2zpaXcfXL",Mon Jan 08 04:36:05 +0000 2018,0.4939,0.144,0.856,0.0
+306,8,FoxNews,"On @MediaBuzzFNC, Anthony @Scaramucci slammed Michael Wolff's book ""Fire and Fury,"" and defended the accomplishment… https://t.co/ogTOr1GBEs",Mon Jan 08 04:35:05 +0000 2018,-0.34,0.0,0.862,0.138
+307,9,FoxNews,"This morning on @foxandfriends, @LisaMarieBoothe discussed @TheDemocrats' recent approach to the issue of illegal i… https://t.co/lqwEsXqqUR",Mon Jan 08 04:30:01 +0000 2018,-0.5574,0.0,0.806,0.194
+308,10,FoxNews,".@BillClinton in 1996: ""We are increasing border controls by 50%. We are increasing inspections to prevent the hiri… https://t.co/7NhfaCW4Bm",Mon Jan 08 04:28:06 +0000 2018,0.0258,0.058,0.942,0.0
+309,11,FoxNews,".@gen_jackkeane: ""North Korea's feeling maximum pressure... Economic sanctions are finally starting to take hold."" https://t.co/n3p6ycGRC7",Mon Jan 08 04:22:06 +0000 2018,0.128,0.097,0.903,0.0
+310,12,FoxNews,".@dbongino: ""Let me show you in about a minute or less what a hoax this whole thing is, this Russian collusion nons… https://t.co/FNoe5I5ojE",Mon Jan 08 04:19:05 +0000 2018,-0.2075,0.0,0.917,0.083
+311,13,FoxNews,Scientologist Elisabeth Moss slammed for 'hypocritical' Golden Globes speech https://t.co/2EePtKzBOq,Mon Jan 08 04:03:45 +0000 2018,0.0,0.0,1.0,0.0
+312,14,FoxNews,Bannon expresses 'regret' for comments attributed to him in 'Fire and Fury' https://t.co/MIZB00ocAI https://t.co/hGbyREuSOD,Mon Jan 08 04:00:03 +0000 2018,-0.7269,0.0,0.663,0.337
+313,15,FoxNews,"RIGHT NOW: @WilliamJBennett hosts ""The Wise Guys,"" a powerful discussion on America's future - Tune in at 8p &amp; 11p… https://t.co/kgPH4m1yQ9",Mon Jan 08 04:00:01 +0000 2018,0.7096,0.258,0.742,0.0
+314,16,FoxNews,"Chris Christie thinks he'd be president if Trump hadn't run, report says https://t.co/5TS5m3lw0B",Mon Jan 08 03:53:00 +0000 2018,0.0,0.0,1.0,0.0
+315,17,FoxNews,"Earlier, @PressSec tweeted about the criticism President @realDonaldTrump receives from @TheDemocrats. https://t.co/vgaIo6Mnvz",Mon Jan 08 03:52:16 +0000 2018,-0.4404,0.0,0.791,0.209
+316,18,FoxNews,".@RepMarkMeadows on new Clinton probe: ""If the attorney general is willing to be transparent, we'll applaud him...… https://t.co/u5rdqB0mvG",Mon Jan 08 03:46:07 +0000 2018,0.4588,0.15,0.85,0.0
+317,19,FoxNews,".@CLewandowski_: ""North Korea has to understand, there are consequences and the @UN has to act in a capacity that s… https://t.co/kaHeerTK82",Mon Jan 08 03:21:03 +0000 2018,0.0,0.0,1.0,0.0
+318,20,FoxNews,"New York's JFK Airport hit with massive delays, angry passengers after 'bomb cyclone' https://t.co/sNGrkna9ef",Mon Jan 08 03:09:00 +0000 2018,-0.7579,0.0,0.649,0.351
+319,21,FoxNews,".@MissDiagnosis: ""Morally, [Noor Salman's] as implicated in the killings as her husband."" https://t.co/oNGJxeEPei https://t.co/4lR3VaxbGg",Mon Jan 08 04:56:04 +0000 2018,-0.6705,0.0,0.743,0.257
+320,22,FoxNews,".@ThomTillis: ""There's a compelling humanitarian reason for securing the border: Thousands of people die trying to… https://t.co/mt4fch74wm",Mon Jan 08 04:56:03 +0000 2018,-0.1779,0.199,0.616,0.185
+321,23,FoxNews,Do you agree with Gov. @MartinOMalley? https://t.co/A7BFQiEjQS https://t.co/wpYdnL34eP,Mon Jan 08 04:53:03 +0000 2018,0.3612,0.263,0.737,0.0
+322,24,FoxNews,"On ""Sunday Morning Futures with @MariaBartiromo,"" Sen. @ThomTillis slammed Democrats who have changed their tune ra… https://t.co/2XuiHOozSG",Mon Jan 08 04:52:01 +0000 2018,0.0,0.0,1.0,0.0
+323,25,FoxNews,"This morning on ""Fox &amp; Friends,"" hosts @PeteHegseth, @LisaMarieBoothe, and @GriffJenkins pointed out the big change… https://t.co/cQWUsaaoH6",Mon Jan 08 04:45:02 +0000 2018,0.0,0.0,1.0,0.0
+324,26,FoxNews,.@AlanDersh Blasts Fellow Dems Over Claims Trump Is Mentally Ill https://t.co/HWAh4Y9nmB https://t.co/26usWuaNZQ,Mon Jan 08 04:44:03 +0000 2018,-0.4215,0.0,0.797,0.203
+325,27,FoxNews,".@LawrenceBJones3: ""I don't even believe we should be talking about this DACA issue until we take care of American… https://t.co/t2zpaXcfXL",Mon Jan 08 04:36:05 +0000 2018,0.4939,0.144,0.856,0.0
+326,28,FoxNews,"On @MediaBuzzFNC, Anthony @Scaramucci slammed Michael Wolff's book ""Fire and Fury,"" and defended the accomplishment… https://t.co/ogTOr1GBEs",Mon Jan 08 04:35:05 +0000 2018,-0.34,0.0,0.862,0.138
+327,29,FoxNews,"This morning on @foxandfriends, @LisaMarieBoothe discussed @TheDemocrats' recent approach to the issue of illegal i… https://t.co/lqwEsXqqUR",Mon Jan 08 04:30:01 +0000 2018,-0.5574,0.0,0.806,0.194
+328,30,FoxNews,".@BillClinton in 1996: ""We are increasing border controls by 50%. We are increasing inspections to prevent the hiri… https://t.co/7NhfaCW4Bm",Mon Jan 08 04:28:06 +0000 2018,0.0258,0.058,0.942,0.0
+329,31,FoxNews,".@gen_jackkeane: ""North Korea's feeling maximum pressure... Economic sanctions are finally starting to take hold."" https://t.co/n3p6ycGRC7",Mon Jan 08 04:22:06 +0000 2018,0.128,0.097,0.903,0.0
+330,32,FoxNews,".@dbongino: ""Let me show you in about a minute or less what a hoax this whole thing is, this Russian collusion nons… https://t.co/FNoe5I5ojE",Mon Jan 08 04:19:05 +0000 2018,-0.2075,0.0,0.917,0.083
+331,33,FoxNews,Scientologist Elisabeth Moss slammed for 'hypocritical' Golden Globes speech https://t.co/2EePtKzBOq,Mon Jan 08 04:03:45 +0000 2018,0.0,0.0,1.0,0.0
+332,34,FoxNews,Bannon expresses 'regret' for comments attributed to him in 'Fire and Fury' https://t.co/MIZB00ocAI https://t.co/hGbyREuSOD,Mon Jan 08 04:00:03 +0000 2018,-0.7269,0.0,0.663,0.337
+333,35,FoxNews,"RIGHT NOW: @WilliamJBennett hosts ""The Wise Guys,"" a powerful discussion on America's future - Tune in at 8p &amp; 11p… https://t.co/kgPH4m1yQ9",Mon Jan 08 04:00:01 +0000 2018,0.7096,0.258,0.742,0.0
+334,36,FoxNews,"Chris Christie thinks he'd be president if Trump hadn't run, report says https://t.co/5TS5m3lw0B",Mon Jan 08 03:53:00 +0000 2018,0.0,0.0,1.0,0.0
+335,37,FoxNews,"Earlier, @PressSec tweeted about the criticism President @realDonaldTrump receives from @TheDemocrats. https://t.co/vgaIo6Mnvz",Mon Jan 08 03:52:16 +0000 2018,-0.4404,0.0,0.791,0.209
+336,38,FoxNews,".@RepMarkMeadows on new Clinton probe: ""If the attorney general is willing to be transparent, we'll applaud him...… https://t.co/u5rdqB0mvG",Mon Jan 08 03:46:07 +0000 2018,0.4588,0.15,0.85,0.0
+337,39,FoxNews,".@CLewandowski_: ""North Korea has to understand, there are consequences and the @UN has to act in a capacity that s… https://t.co/kaHeerTK82",Mon Jan 08 03:21:03 +0000 2018,0.0,0.0,1.0,0.0
+338,40,FoxNews,"New York's JFK Airport hit with massive delays, angry passengers after 'bomb cyclone' https://t.co/sNGrkna9ef",Mon Jan 08 03:09:00 +0000 2018,-0.7579,0.0,0.649,0.351
+339,41,FoxNews,Fraternity brothers to be sentenced after allegedly covering up pledge hazing death https://t.co/F79revYE95,Mon Jan 08 03:02:19 +0000 2018,-0.6124,0.0,0.688,0.312
+340,42,FoxNews,Blanca Blanco ignores all-black dress code at #GoldenGlobes https://t.co/I2kaS2Sv8K,Mon Jan 08 02:46:07 +0000 2018,-0.2732,0.0,0.792,0.208
+341,43,FoxNews,#GoldenGlobes kick off 2018 award season: What to know about the show https://t.co/Dvp9gSj7bs,Mon Jan 08 02:38:17 +0000 2018,0.5423,0.226,0.774,0.0
+342,44,FoxNews,"Henry Olsen on DACA: ""People low skilled throughout the developed world are hit by a double whammy of competition.… https://t.co/Nn2M2r7zAS",Mon Jan 08 02:36:40 +0000 2018,-0.2732,0.0,0.896,0.104
+343,45,FoxNews,".@Tim_Canova on DACA: ""We have to have a conversation in this country [of] what it means to be an American and how… https://t.co/9vRiBbF7FN",Mon Jan 08 02:29:00 +0000 2018,0.0,0.0,1.0,0.0
+344,46,FoxNews,".@TomiLahren on ""Fire and Fury"": ""It's very sad to me that there are individuals, whether they were in the administ… https://t.co/RTAmgLYxEB",Mon Jan 08 02:24:26 +0000 2018,-0.6997,0.0,0.766,0.234
+345,47,FoxNews,"Henry Olsen on ""Fire and Fury"": ""I think that's the biggest story that's coming out of this is that the President i… https://t.co/rnqReXa9UT",Mon Jan 08 02:22:06 +0000 2018,-0.34,0.0,0.902,0.098
+346,48,FoxNews,"Iran banning English classes in primary schools citing 'cultural invasion' fears, official says https://t.co/bWJkFG5nNM",Mon Jan 08 02:19:00 +0000 2018,-0.4215,0.0,0.823,0.177
+347,49,FoxNews,".@Tim_Canova on ""Fire and Fury"":  ""I'd rather talk about the issues than the personality of the president.""… https://t.co/YcjJ1rEajH",Mon Jan 08 02:12:31 +0000 2018,-0.34,0.0,0.876,0.124
+348,50,FoxNews,US Navy plane joins hunt for 32 sailors after Iranian tanker collides with freighter off China https://t.co/aUnI8suUSq,Mon Jan 08 02:11:00 +0000 2018,-0.2732,0.0,0.884,0.116
+349,51,FoxNews,"EXCLUSIVE: UNICEF using biased information to blacklist Israel military, critics say https://t.co/fWUeiaxR2n",Mon Jan 08 02:04:00 +0000 2018,-0.2656,0.144,0.579,0.277
+350,52,FoxNews,"Golden Globes host Seth Meyers mocks Harvey Weinstein, Kevin Spacey https://t.co/GYxuusbYQ1",Mon Jan 08 01:57:00 +0000 2018,-0.4588,0.0,0.769,0.231
+351,53,FoxNews,".@AlanDersh: ""Separation of church and state can't ever be absolute. The church and the synagogue are part of socie… https://t.co/BB6b92FldF",Mon Jan 08 01:52:26 +0000 2018,0.0,0.0,1.0,0.0
+352,54,FoxNews,".@OliverNorthFNC: ""The sequester that was imposed on our military for the last five years of the Obama administrati… https://t.co/jX4WlKRGPn",Mon Jan 08 01:47:43 +0000 2018,-0.0772,0.0,0.933,0.067
+353,55,FoxNews,"Yesterday, @SenSanders commented on President @realDonaldTrump's administration asking Congress for $18 billion to… https://t.co/JSSCIQIZOg",Mon Jan 08 01:43:02 +0000 2018,0.0,0.0,1.0,0.0
+354,56,FoxNews,Moody Blues rocker Ray Thomas dies before Hall of Fame induction ceremony https://t.co/jAujADJTkH,Mon Jan 08 01:40:00 +0000 2018,0.1027,0.177,0.671,0.152
+355,57,FoxNews,"Steve Wynn: ""The only constituency that a successful businessperson has is the jobs he's created, the people that w… https://t.co/t8omlAbmxR",Mon Jan 08 01:36:45 +0000 2018,0.7003,0.254,0.746,0.0
+356,58,FoxNews,".@AlanDersh: ""The perception of the disparity of wealth has become greater than ever before because of the media."" https://t.co/593PIZ6hdd",Mon Jan 08 01:32:42 +0000 2018,0.6908,0.251,0.749,0.0
+357,59,FoxNews,Connie Britton wears 'poverty is sexist' sweater at the Golden Globes https://t.co/aFAOdxTxIo,Mon Jan 08 01:29:00 +0000 2018,-0.5106,0.0,0.769,0.231
+358,60,FoxNews,Town encourages children to smoke during Epiphany https://t.co/SKHKCxSgAl,Mon Jan 08 01:23:16 +0000 2018,0.4404,0.293,0.707,0.0
+359,61,FoxNews,".@AriFleischer: ""There are [a lot] of blue collar workers who thought Washington wasn't listening to their voice, a… https://t.co/gOVlTTfZaK",Mon Jan 08 01:16:44 +0000 2018,0.0,0.0,1.0,0.0
+360,62,FoxNews,"RIGHT NOW: @WilliamJBennett hosts ""The Wise Guys,"" a powerful discussion on America's future - Tune in at 8p &amp; 11p… https://t.co/9kGQEmiGVt",Mon Jan 08 01:00:01 +0000 2018,0.7096,0.258,0.742,0.0
+361,63,FoxNews,".@WalidPhares: ""We're not gonna stop the sanctions at a time where the Iranian regime is becoming and showing a lot… https://t.co/qH74DgMD2b",Mon Jan 08 00:58:38 +0000 2018,0.2235,0.095,0.905,0.0
+362,64,FoxNews,.@newtgingrich: @realDonaldTrump is right -- we need welfare reform https://t.co/EdDvPivrID,Mon Jan 08 00:45:00 +0000 2018,0.0,0.0,1.0,0.0
+363,65,FoxNews,Debra Messing slams E! over wage equality during live Golden Globes red carpet interview https://t.co/GoGMcfGhBz,Mon Jan 08 00:43:00 +0000 2018,0.0,0.0,1.0,0.0
+364,66,FoxNews,"De Blasio to travel 'all around' America, denies it's a dry run for WH campaign https://t.co/WkCqvFToHu",Mon Jan 08 00:33:00 +0000 2018,-0.4215,0.0,0.833,0.167
+365,67,FoxNews,".@lindsemcpherson on Dems working with @POTUS: ""Why would they work with him to give him a big win on a legislative… https://t.co/nHF7R084Ww",Mon Jan 08 00:23:50 +0000 2018,0.5859,0.167,0.833,0.0
+366,68,FoxNews,E! replaces 'Who are you wearing' with questions about black attire at the 2018 Golden Globes https://t.co/hiEno9DqMs,Mon Jan 08 00:23:00 +0000 2018,0.0,0.0,1.0,0.0
+367,69,FoxNews,".@lindsemcpherson on Dems working with @POTUS: ""Democrats have no real incentive to work with the president when th… https://t.co/ABrQYNfmvj",Mon Jan 08 00:22:05 +0000 2018,0.0772,0.115,0.783,0.101
+368,70,FoxNews,Former Dem 2016 Candidate: Let 'Obsessed' Trump Build Wall If It Saves DACA https://t.co/1vzt1dhJzy,Mon Jan 08 00:14:32 +0000 2018,0.0,0.0,1.0,0.0
+369,71,FoxNews,".@JSchanzer on Iran nuclear deal: ""The Iranians, there's no doubt they got just about everything they possibly coul… https://t.co/SqWLlKOyfr",Mon Jan 08 00:02:31 +0000 2018,-0.5719,0.0,0.783,0.217
+370,72,FoxNews,"Math teacher accused of multiple sex romps, sending lewd photos to student, sentenced https://t.co/hCwq8lgTdX",Sun Jan 07 23:54:52 +0000 2018,-0.3182,0.0,0.784,0.216
+371,73,FoxNews,Celebrities wear black to the #GoldenGlobes to protest sexual harassment in the entertainment industry.… https://t.co/fugBDQxsLr,Sun Jan 07 23:48:23 +0000 2018,-0.4019,0.138,0.591,0.271
+372,74,FoxNews,"Feds to seek retrial in Bundy case, as sting of mistrial lingers
+ https://t.co/JAoHs6kdF0",Sun Jan 07 23:37:00 +0000 2018,0.0,0.0,1.0,0.0
+373,75,FoxNews,".@Jamie_Weinstein on calls for Sessions to resign: ""He is an embattled man and I think he's been an embattled attor… https://t.co/LDRZyJnJyI",Sun Jan 07 23:28:29 +0000 2018,-0.34,0.0,0.888,0.112
+374,76,FoxNews,".@ArthelNeville: ""Is the AG trying to appease @POTUS?""
+
+@Jamie_Weinstein: ""I think the attorney general has been em… https://t.co/BdYEOOa62R",Sun Jan 07 23:21:31 +0000 2018,0.2732,0.11,0.89,0.0
+375,77,FoxNews,NJ man arrested 92 times gets decades in prison for killing son's mom https://t.co/S2UxsC3Nk6,Sun Jan 07 23:16:00 +0000 2018,-0.8957,0.0,0.505,0.495
+376,78,FoxNews,Antifa member ordered to pay legal fees of Berkeley conservative over attempted restraining order https://t.co/2boASDxYcv,Sun Jan 07 23:11:00 +0000 2018,0.0258,0.094,0.818,0.088
+377,79,FoxNews,"OPINION: Pot is dangerous, not funny -- a doctor tells us why https://t.co/AD8qDFTpzW",Sun Jan 07 23:10:00 +0000 2018,-0.6711,0.0,0.645,0.355
+378,80,FoxNews,#GameofThrones actor Kit Harington kicked out of NYC bar https://t.co/NLxWKkgg2k,Sun Jan 07 23:03:00 +0000 2018,0.0,0.0,1.0,0.0
+379,81,FoxNews,.@HeyTammyBruce: 'Fake but important' Trump book proves liberals don't care about the truth         https://t.co/P3nDYCY7L2,Sun Jan 07 23:00:01 +0000 2018,-0.088,0.249,0.484,0.266
+380,82,FoxNews,".@TomFitton: ""If it's a serious investigation, Mrs. Clinton needs to take some legal counsel and take this more ser… https://t.co/K4LZqQupgT",Sun Jan 07 22:55:06 +0000 2018,0.0516,0.076,0.859,0.066
+381,83,FoxNews,".@PMorici1: ""The bottom line here is American companies are doing better since Mr. Trump won the election. They're… https://t.co/aiKKAuJ4up",Sun Jan 07 22:54:04 +0000 2018,0.765,0.28,0.72,0.0
+382,84,FoxNews,".@POTUS, yesterday, on Michael Wolff: ""I never interviewed with him in the @WhiteHouse at all. He was never in the… https://t.co/HZA6ece644",Sun Jan 07 22:51:01 +0000 2018,0.0,0.0,1.0,0.0
+383,85,FoxNews,"Trump Book Author Recalls WH Visits, Rebuffs Criticism       https://t.co/jrokFD3Wpp",Sun Jan 07 22:48:04 +0000 2018,-0.4404,0.0,0.734,0.266
+384,86,FoxNews,Volunteer attacked with machete while delivering meals to the homeless https://t.co/cqVRT725JZ,Sun Jan 07 22:46:21 +0000 2018,-0.4588,0.0,0.769,0.231
+385,87,FoxNews,RT @foxnewspolitics: Trump slams 'flunky' CNN star Jake Tapper after Stephen Miller grilling flies off the rails    https://t.co/nwHmPxLnrj,Sun Jan 07 22:46:06 +0000 2018,0.0,0.0,1.0,0.0
+386,88,FoxNews,".@POTUS: ""We also obviously went into budgets, and we went into DACA... and we hope that we're going to work out an… https://t.co/Sg90O6ZkOy",Sun Jan 07 22:45:07 +0000 2018,0.4404,0.116,0.884,0.0
+387,89,FoxNews,"NFL’s Roger Goodell not worried about TV ratings despite backlash over kneeling, concussions
+   https://t.co/KGMbpXQI2m",Sun Jan 07 22:41:57 +0000 2018,0.2235,0.127,0.873,0.0
+388,90,FoxNews,Mysterious x-ray emission may reveal nature of dark matter https://t.co/LxPOzaFZdM,Sun Jan 07 22:41:53 +0000 2018,0.0258,0.109,0.891,0.0
+389,91,FoxNews,"RT @EricShawnTV: I anchor at 6 pm ET @FoxNews: The #WhiteHouse: @POTUS @realDonaldTrump and Macron say #Tehran uses #Iran's ""wealth to fund…",Sun Jan 07 22:35:21 +0000 2018,0.4939,0.144,0.856,0.0
+390,92,FoxNews,"Boston firefighters battle fire, ice during blaze as deep freeze set to end https://t.co/b2rD9DqKrb",Sun Jan 07 22:30:18 +0000 2018,-0.5859,0.07,0.64,0.291
+391,93,FoxNews,"On ""Sunday Morning Futures with @MariaBartiromo,"" Sen. @ThomTillis slammed Democrats who have changed their tune ra… https://t.co/lTzWMDHJdR",Sun Jan 07 22:22:20 +0000 2018,0.0,0.0,1.0,0.0
+392,94,FoxNews,"'Jumanji,' shockingly topples 'Star Wars: The Last Jedi' at the box office https://t.co/uBc8oYLqkW",Sun Jan 07 22:21:53 +0000 2018,-0.6486,0.0,0.675,0.325
+393,95,FoxNews,Christians in Egypt celebrate Christmas after year marred by violence - via @christocarbone    https://t.co/ZGewkfCTgn,Sun Jan 07 22:16:55 +0000 2018,-0.1027,0.197,0.585,0.218
+394,96,FoxNews,"'Mad Pooper' copycat makes 'vile' mess in driveway, Arkansas woman says https://t.co/MKBlcg4NIb",Sun Jan 07 22:11:07 +0000 2018,-0.6908,0.0,0.637,0.363
+395,97,FoxNews,"TONIGHT: @WilliamJBennett hosts ""The Wise Guys,"" a powerful discussion on America's future - Tune in at 8p &amp; 11p ET… https://t.co/VoHxXFWJbO",Sun Jan 07 22:07:06 +0000 2018,0.7096,0.258,0.742,0.0
+396,98,FoxNews,".@AlanDersh: ""How dare liberals - people on the left - try to undo democracy by accusing a president of being menta… https://t.co/gH1oC8mjtQ",Sun Jan 07 22:05:03 +0000 2018,-0.1779,0.0,0.914,0.086
+397,99,FoxNews,"Betty White, 95, speaks about longevity, vodka and hot dogs https://t.co/gwpVS4FrTD",Sun Jan 07 22:04:54 +0000 2018,0.0,0.0,1.0,0.0
+398,100,FoxNews,"This morning on @foxandfriends, @LisaMarieBoothe discussed @TheDemocrats' recent approach to the issue of illegal i… https://t.co/40pCgCDbp7",Sun Jan 07 22:01:27 +0000 2018,-0.5574,0.0,0.806,0.194
+399,1,nytimes,"In an ancient burial pit in Alaska, scientists have found new clues to how people first arrived in the Americas fro… https://t.co/xjQZgJNlF1",Mon Jan 08 05:09:35 +0000 2018,0.0,0.0,1.0,0.0
+400,2,nytimes,"Debra Messing, live on E!, chastised E! https://t.co/jcWr4yyKd6",Mon Jan 08 04:52:06 +0000 2018,-0.5837,0.0,0.649,0.351
+401,3,nytimes,"Natalie Portman: ""And here are the all-male nominees"" https://t.co/SlTDj01NI7",Mon Jan 08 04:28:03 +0000 2018,0.0,0.0,1.0,0.0
+402,4,nytimes,A full transcript of Oprah Winfrey's Golden Globes speech: https://t.co/Tvmp3xJDpO https://t.co/84WdtTcWnq,Mon Jan 08 04:18:00 +0000 2018,0.0,0.0,1.0,0.0
+403,5,nytimes,The complete list of winners at the 2018 Golden Globes https://t.co/Bl9qcHIOZg,Mon Jan 08 04:16:50 +0000 2018,0.4767,0.237,0.763,0.0
+404,6,nytimes,"""Three Billboards"" and ""Lady Bird"" won the top movie awards at the Golden Globes, and Oprah Winfrey jolted the crow… https://t.co/irHWXYldIx",Mon Jan 08 04:11:40 +0000 2018,0.8176,0.321,0.679,0.0
+405,7,nytimes,"Not everyone has been pleased with the Golden Globes success of ""Three Billboards Outside Ebbing, Missouri"" https://t.co/vAI40YiPYc",Mon Jan 08 04:07:49 +0000 2018,0.765,0.306,0.694,0.0
+406,8,nytimes,"The NYT review of ""Three Billboards Outside Ebbing, Missouri,"" which just won a Golden Globe for best drama https://t.co/N9AQ06BKEl",Mon Jan 08 04:06:29 +0000 2018,0.836,0.331,0.669,0.0
+407,9,nytimes,"Frances McDormand, in 2017: ""I’m not an actor because I want my picture taken. I’m an actor because I want to be pa… https://t.co/yUNPt4nLx9",Mon Jan 08 04:02:02 +0000 2018,0.1531,0.115,0.885,0.0
+408,10,nytimes,Photos: We sent a Pulitzer-prize winning photographer to capture the realities of the Golden Globes red carpet… https://t.co/SnHpnV2pWN,Mon Jan 08 03:53:04 +0000 2018,0.5267,0.175,0.825,0.0
+409,11,nytimes,"In most films, girls exist to be looked at. But in Greta Gerwig’s ""Lady Bird,"" the girl is the one who looks. From… https://t.co/Hcii8NtPQb",Mon Jan 08 03:45:41 +0000 2018,0.0,0.0,1.0,0.0
+410,12,nytimes,"The NYT review of ""Lady Bird,"" which just won a Golden Globe for best comedy/musical https://t.co/TctuZGKtlA",Mon Jan 08 03:44:23 +0000 2018,0.836,0.378,0.622,0.0
+411,13,nytimes,"RT @nytimesarts: Saoirse Ronan wins the Golden Globe for best actress in a movie, comedy/musical for ""Lady Bird""",Mon Jan 08 03:36:07 +0000 2018,0.836,0.345,0.655,0.0
+412,14,nytimes,"Reese Witherspoon: ""People out there who are feeling silenced – we see you, we hear you and we will tell your story"" https://t.co/rgbbntDM54",Mon Jan 08 03:31:38 +0000 2018,0.128,0.067,0.933,0.0
+413,15,nytimes,"Southern mothers. Brown lipstick. Red Vines. ""Big Little Lies."" https://t.co/W2sHiMzvyv",Mon Jan 08 03:28:37 +0000 2018,0.0,0.0,1.0,0.0
+414,16,nytimes,"The NYT review of ""The Shape of Water,"" for which Guillermo del Toro just won a Golden Globe… https://t.co/064UzoybD2",Mon Jan 08 03:27:50 +0000 2018,0.5719,0.179,0.821,0.0
+415,17,nytimes,"Recy Taylor died weeks after the release of a documentary about her. Here's NYT's review of ""The Rape of Recy Taylo… https://t.co/hXk64n3L0h",Mon Jan 08 03:17:10 +0000 2018,-0.8519,0.0,0.696,0.304
+416,18,nytimes,"Recy Taylor, who Oprah just mentioned, was gang-raped by 6 white men in 1944, in a case that galvanized the early c… https://t.co/AoMOdSLWKi",Mon Jan 08 03:13:44 +0000 2018,0.0,0.0,1.0,0.0
+417,19,nytimes,"Oprah: ""I want tonight to express gratitude to all the women who have endured years of abuse and assault"" https://t.co/iIBrsJRmc2",Mon Jan 08 03:12:48 +0000 2018,-0.6597,0.161,0.559,0.28
+418,20,nytimes,A running list of winners of the Golden Globes https://t.co/gDif32Vrf7,Mon Jan 08 03:10:04 +0000 2018,0.4767,0.279,0.721,0.0
+419,21,nytimes,"In an ancient burial pit in Alaska, scientists have found new clues to how people first arrived in the Americas fro… https://t.co/xjQZgJNlF1",Mon Jan 08 05:09:35 +0000 2018,0.0,0.0,1.0,0.0
+420,22,nytimes,"Debra Messing, live on E!, chastised E! https://t.co/jcWr4yyKd6",Mon Jan 08 04:52:06 +0000 2018,-0.5837,0.0,0.649,0.351
+421,23,nytimes,"Natalie Portman: ""And here are the all-male nominees"" https://t.co/SlTDj01NI7",Mon Jan 08 04:28:03 +0000 2018,0.0,0.0,1.0,0.0
+422,24,nytimes,A full transcript of Oprah Winfrey's Golden Globes speech: https://t.co/Tvmp3xJDpO https://t.co/84WdtTcWnq,Mon Jan 08 04:18:00 +0000 2018,0.0,0.0,1.0,0.0
+423,25,nytimes,The complete list of winners at the 2018 Golden Globes https://t.co/Bl9qcHIOZg,Mon Jan 08 04:16:50 +0000 2018,0.4767,0.237,0.763,0.0
+424,26,nytimes,"""Three Billboards"" and ""Lady Bird"" won the top movie awards at the Golden Globes, and Oprah Winfrey jolted the crow… https://t.co/irHWXYldIx",Mon Jan 08 04:11:40 +0000 2018,0.8176,0.321,0.679,0.0
+425,27,nytimes,"Not everyone has been pleased with the Golden Globes success of ""Three Billboards Outside Ebbing, Missouri"" https://t.co/vAI40YiPYc",Mon Jan 08 04:07:49 +0000 2018,0.765,0.306,0.694,0.0
+426,28,nytimes,"The NYT review of ""Three Billboards Outside Ebbing, Missouri,"" which just won a Golden Globe for best drama https://t.co/N9AQ06BKEl",Mon Jan 08 04:06:29 +0000 2018,0.836,0.331,0.669,0.0
+427,29,nytimes,"Frances McDormand, in 2017: ""I’m not an actor because I want my picture taken. I’m an actor because I want to be pa… https://t.co/yUNPt4nLx9",Mon Jan 08 04:02:02 +0000 2018,0.1531,0.115,0.885,0.0
+428,30,nytimes,Photos: We sent a Pulitzer-prize winning photographer to capture the realities of the Golden Globes red carpet… https://t.co/SnHpnV2pWN,Mon Jan 08 03:53:04 +0000 2018,0.5267,0.175,0.825,0.0
+429,31,nytimes,"In most films, girls exist to be looked at. But in Greta Gerwig’s ""Lady Bird,"" the girl is the one who looks. From… https://t.co/Hcii8NtPQb",Mon Jan 08 03:45:41 +0000 2018,0.0,0.0,1.0,0.0
+430,32,nytimes,"The NYT review of ""Lady Bird,"" which just won a Golden Globe for best comedy/musical https://t.co/TctuZGKtlA",Mon Jan 08 03:44:23 +0000 2018,0.836,0.378,0.622,0.0
+431,33,nytimes,"RT @nytimesarts: Saoirse Ronan wins the Golden Globe for best actress in a movie, comedy/musical for ""Lady Bird""",Mon Jan 08 03:36:07 +0000 2018,0.836,0.345,0.655,0.0
+432,34,nytimes,"Reese Witherspoon: ""People out there who are feeling silenced – we see you, we hear you and we will tell your story"" https://t.co/rgbbntDM54",Mon Jan 08 03:31:38 +0000 2018,0.128,0.067,0.933,0.0
+433,35,nytimes,"Southern mothers. Brown lipstick. Red Vines. ""Big Little Lies."" https://t.co/W2sHiMzvyv",Mon Jan 08 03:28:37 +0000 2018,0.0,0.0,1.0,0.0
+434,36,nytimes,"The NYT review of ""The Shape of Water,"" for which Guillermo del Toro just won a Golden Globe… https://t.co/064UzoybD2",Mon Jan 08 03:27:50 +0000 2018,0.5719,0.179,0.821,0.0
+435,37,nytimes,"Recy Taylor died weeks after the release of a documentary about her. Here's NYT's review of ""The Rape of Recy Taylo… https://t.co/hXk64n3L0h",Mon Jan 08 03:17:10 +0000 2018,-0.8519,0.0,0.696,0.304
+436,38,nytimes,"Recy Taylor, who Oprah just mentioned, was gang-raped by 6 white men in 1944, in a case that galvanized the early c… https://t.co/AoMOdSLWKi",Mon Jan 08 03:13:44 +0000 2018,0.0,0.0,1.0,0.0
+437,39,nytimes,"Oprah: ""I want tonight to express gratitude to all the women who have endured years of abuse and assault"" https://t.co/iIBrsJRmc2",Mon Jan 08 03:12:48 +0000 2018,-0.6597,0.161,0.559,0.28
+438,40,nytimes,A running list of winners of the Golden Globes https://t.co/gDif32Vrf7,Mon Jan 08 03:10:04 +0000 2018,0.4767,0.279,0.721,0.0
+439,41,nytimes,"Hi, Oprah https://t.co/BeLNbIckxg",Mon Jan 08 03:03:56 +0000 2018,0.0,0.0,1.0,0.0
+440,42,nytimes,Sterling K. Brown became the first black man to win a Golden Globe for for best actor in a television drama https://t.co/XzA5nCs8ck,Mon Jan 08 02:59:49 +0000 2018,0.8402,0.308,0.692,0.0
+441,43,nytimes,"From 2017: For Aziz Ansari, “Master of None” is deeply personal. Season 2 was even more ambitious than the first. https://t.co/1wfRIu3DIg",Mon Jan 08 02:57:13 +0000 2018,0.5256,0.152,0.848,0.0
+442,44,nytimes,Did you hear the one about the housewife who walks into a comedy club? It just won a Golden Globe. https://t.co/IcR6bvJb7k,Mon Jan 08 02:55:02 +0000 2018,0.7351,0.267,0.733,0.0
+443,45,nytimes,Review: It turns out it was harder for Ryan Seacrest and Giuliana Rancic to pivot from clothes to crises than they… https://t.co/opeFDDiYkT,Mon Jan 08 02:47:23 +0000 2018,0.0,0.0,1.0,0.0
+444,46,nytimes,It took only 4 minutes for Harvey Weinstein to be booed at the 75th Golden Globes. https://t.co/kCxGLoPlle,Mon Jan 08 02:39:05 +0000 2018,0.0,0.0,1.0,0.0
+445,47,nytimes,A full transcript of Seth Meyer's Golden Globes monologue https://t.co/SLeaAkQLYr,Mon Jan 08 02:26:58 +0000 2018,0.0,0.0,1.0,0.0
+446,48,nytimes,"RT @nytimesarts: ""Coco"" was the story of my life: our readers share reactions to Pixar’s film, which just won a Golden Globe https://t.co/c…",Mon Jan 08 02:24:18 +0000 2018,0.7096,0.228,0.772,0.0
+447,49,nytimes,"Miss Golden Globe is no more.
+Long live the Golden Globe Ambassador. https://t.co/EkyRRfzHA4",Mon Jan 08 02:24:02 +0000 2018,-0.4215,0.0,0.743,0.257
+448,50,nytimes,"The NYT review of ""Coco,"" which just won a Golden Globe https://t.co/YhhH6L3Er1",Mon Jan 08 02:21:31 +0000 2018,0.5719,0.27,0.73,0.0
+449,51,nytimes,"""With that deeply Franco speech, we’re learning that, for white men, the theme of night might be #ThemToo."" —… https://t.co/AMgByYiAEA",Mon Jan 08 02:16:07 +0000 2018,0.0,0.0,1.0,0.0
+450,52,nytimes,RT @sgoood: Tommy Wiseau on the Golden Globes stage? Of course! https://t.co/QOETvLnqan,Mon Jan 08 02:14:31 +0000 2018,0.0,0.0,1.0,0.0
+451,53,nytimes,"Oh, hi Mark! https://t.co/ZZrAgTISvL",Mon Jan 08 02:10:13 +0000 2018,0.0,0.0,1.0,0.0
+452,54,nytimes,"James Franco, on playing Tommy Wiseau: ""I could relate to the story, as insane as it was, because it was a story ab… https://t.co/4nsHr9TaUD",Mon Jan 08 02:09:40 +0000 2018,-0.2263,0.071,0.824,0.106
+453,55,nytimes,We asked Golden Globes nominees about sexism. Here's what they said. https://t.co/Kvt27yJ7VJ,Mon Jan 08 02:07:34 +0000 2018,0.0,0.0,1.0,0.0
+454,56,nytimes,@yashar The caption has long since been updated to properly acknowledge the wonderful Rita Moreno… https://t.co/GyYKMhgs8k,Mon Jan 08 02:03:25 +0000 2018,0.5719,0.198,0.802,0.0
+455,57,nytimes,A running list of winners of the Golden Globes https://t.co/JSqjCG3OKO,Mon Jan 08 02:02:45 +0000 2018,0.4767,0.279,0.721,0.0
+456,58,nytimes,@itsgabrielleu The caption has since been updated to acknowledge QUEEN Rita Moreno https://t.co/YSr4G1EOOg https://t.co/tA1sNvRgxj,Mon Jan 08 02:00:02 +0000 2018,0.0,0.0,1.0,0.0
+457,59,nytimes,RT @jodikantor: A new kind of red carpet pic. https://t.co/Ylb8P74YVM https://t.co/NMz8mQUSr4,Mon Jan 08 01:52:14 +0000 2018,0.0,0.0,1.0,0.0
+458,60,nytimes,"""The Handmaid's Tale"" just won the Golden Globe for best TV drama series https://t.co/ZsPY9uRuF2",Mon Jan 08 01:46:25 +0000 2018,0.836,0.397,0.603,0.0
+459,61,nytimes,"RT @nytimesarts: Sterling K. Brown wins the Golden Globe for best actor, TV drama for ""This Is Us""",Mon Jan 08 01:43:26 +0000 2018,0.836,0.331,0.669,0.0
+460,62,nytimes,"The Pentagon Papers are back in the spotlight with the release of ""The Post."" Here's how the top-secret cache of do… https://t.co/WZxCxAnt7p",Mon Jan 08 01:41:36 +0000 2018,0.0,0.0,1.0,0.0
+461,63,nytimes,"Elisabeth Moss, who just won a Golden Globe, said this about ""The Handmaid's Tale"" in 2017: ""We never knew that it… https://t.co/nHsu098mJ6",Mon Jan 08 01:32:32 +0000 2018,0.5719,0.156,0.844,0.0
+462,64,nytimes,"Rachel Brosnahan, on her audition for ""The Marvelous Mrs. Maisel"": ""I think I may have had a small stroke? I litera… https://t.co/Y3McO285is",Mon Jan 08 01:31:31 +0000 2018,0.5994,0.178,0.822,0.0
+463,65,nytimes,"Rachel Brosnahan's role in ""The Marvelous Mrs. Maisel"" — for which she just won a Golden
+ Globe — came at a moment… https://t.co/mYvw6DUGoa",Mon Jan 08 01:30:02 +0000 2018,0.8225,0.309,0.691,0.0
+464,66,nytimes,"""I’m a Sam Rockwell fan who despises the moral and emotional and metaphorical confusion that is 'Three Billboards O… https://t.co/PHLTjLjTki",Mon Jan 08 01:27:21 +0000 2018,-0.3182,0.162,0.622,0.216
+465,67,nytimes,A running list of winners of the Golden Globes https://t.co/rfuetPaDVb,Mon Jan 08 01:24:37 +0000 2018,0.4767,0.279,0.721,0.0
+466,68,nytimes,"The truth has a voice.
+
+This commercial for The New York Times premiered during the Golden Globes. https://t.co/bDdSVPgLzf",Mon Jan 08 01:24:05 +0000 2018,0.3182,0.126,0.874,0.0
+467,69,nytimes,"The NYT review of ""Three Billboards Outside Ebbing, Missouri,"" for which Sam Rockwell just won a Golden Globe https://t.co/MaFqqW4B72",Mon Jan 08 01:20:05 +0000 2018,0.5719,0.179,0.821,0.0
+468,70,nytimes,"RT @nytimesarts: Nicole Kidman wins the Golden Globe for best actress, TV movie or miniseries for ""Big Little Lies""",Mon Jan 08 01:16:18 +0000 2018,0.7501,0.299,0.606,0.095
+469,71,nytimes,"With ""Big Little Lies,"" Nicole Kidman (who just won a Golden Globe) helped ensure that complicated stories about wo… https://t.co/2Xs4jBZcwi",Mon Jan 08 01:15:07 +0000 2018,0.743,0.27,0.73,0.0
+470,72,nytimes,Amy Poehler is among 8 actresses who are accompanied by activists at the Golden Globes https://t.co/2lttz5Hhnr,Mon Jan 08 01:11:45 +0000 2018,0.0,0.0,1.0,0.0
+471,73,nytimes,"RT @NYTStyles: Harvey Weinstein helped build the awards circuit as we know it. He’ll be gone from this year’s Golden Globes— derided, decri…",Mon Jan 08 01:08:13 +0000 2018,0.296,0.116,0.814,0.07
+472,74,nytimes,"""Seth Meyers is making the most of the anxiety about how he’d do,"" @melenar writes of the Golden Globes https://t.co/39vndAdGbB",Mon Jan 08 01:06:59 +0000 2018,-0.2415,0.0,0.906,0.094
+473,75,nytimes,"Seth Meyers on hosting the Golden Globes: ""If we’re going to talk about what’s been going on lately, then I can bri… https://t.co/YV4dakchyJ",Mon Jan 08 01:01:51 +0000 2018,0.0,0.0,1.0,0.0
+474,76,nytimes,The Golden Globes are Hollywood's first major gathering of the #MeToo era. How will the stars respond? Join us for… https://t.co/TqLeZdHE7u,Mon Jan 08 00:49:05 +0000 2018,0.296,0.099,0.901,0.0
+475,77,nytimes,Photos: The latest action from the Golden Globes red carpet https://t.co/MXly37Tooe,Mon Jan 08 00:36:03 +0000 2018,0.0,0.0,1.0,0.0
+476,78,nytimes,This succulent chicken recipe is as timeless as they come https://t.co/rwRhC2geUg,Mon Jan 08 00:35:01 +0000 2018,0.0,0.0,1.0,0.0
+477,79,nytimes,"RT @NYTStyles: Amy Poehler is at the #GoldenGlobes with Saru Jayaraman, an advocate and attorney for restaurant workers. https://t.co/63UNN…",Mon Jan 08 00:29:12 +0000 2018,0.0,0.0,1.0,0.0
+478,80,nytimes,We asked Golden Globes nominees about sexism. Here's what they said. https://t.co/jmJBHHQq3O,Mon Jan 08 00:20:48 +0000 2018,0.0,0.0,1.0,0.0
+479,81,nytimes,"Debra Messing, live on E!, used her red carpet interview to chastise E! https://t.co/2dLp7CzTZB",Mon Jan 08 00:08:43 +0000 2018,-0.6229,0.0,0.761,0.239
+480,82,nytimes,"The Golden Globes will be draped in black, quite literally, with actresses and some actors vowing to use their atti… https://t.co/l3PnmcRnU0",Mon Jan 08 00:07:42 +0000 2018,0.0,0.0,1.0,0.0
+481,83,nytimes,Follow @caraNYT for more updates from the Golden Globes red carpet. https://t.co/i1Xg4qdNGR,Mon Jan 08 00:02:10 +0000 2018,0.0,0.0,1.0,0.0
+482,84,nytimes,Time's Up pins are the political accessory at the Golden Globes https://t.co/jzk1PpV0Eo,Sun Jan 07 23:57:04 +0000 2018,0.0,0.0,1.0,0.0
+483,85,nytimes,"Michelle Williams, Emma Watson and six other actresses will each be accompanied by activists on the Golden Globes r… https://t.co/Abb8kxQLI6",Sun Jan 07 23:47:46 +0000 2018,0.0,0.0,1.0,0.0
+484,86,nytimes,Israel published a blacklist of 20 organizations whose leaders it has barred from entering the country for supporti… https://t.co/DqhQS6nehV,Sun Jan 07 23:38:05 +0000 2018,0.0,0.0,1.0,0.0
+485,87,nytimes,"RT @VVFriedman: The black fashion #goldenglobes movement seems to be divided along three lines: women who wear black tuxes, women who wear…",Sun Jan 07 23:34:20 +0000 2018,0.0,0.0,1.0,0.0
+486,88,nytimes,"Given Hollywood's cultural reckoning, @NYTStyles decided to take a fresh approach to the Golden Globes red carpet.… https://t.co/MPt3GxEvlR",Sun Jan 07 23:28:12 +0000 2018,0.3182,0.126,0.874,0.0
+487,89,nytimes,RT @nytopinion: .@ambertamblyn: What we are wearing is not a statement of fashion. It is a statement of action. It is a direct message of r…,Sun Jan 07 23:15:08 +0000 2018,0.0,0.0,1.0,0.0
+488,90,nytimes,"Debra Messing, being interviewed on E!: "" I was so shocked to hear E! doesn’t believe in paying their female co-hos… https://t.co/Xpe0ozIlWX",Sun Jan 07 23:14:33 +0000 2018,-0.5537,0.0,0.842,0.158
+489,91,nytimes,A group of 300 Hollywood women have formed a sprawling initiative to fight systemic sexual harassment https://t.co/mfaGVJPaxJ,Sun Jan 07 23:10:05 +0000 2018,-0.7269,0.0,0.681,0.319
+490,92,nytimes,"RT @caraNYT: ""With the women's march and now this, it really feels like a revolution is taking place. Although it's not going to solve all…",Sun Jan 07 23:09:41 +0000 2018,0.2929,0.105,0.834,0.06
+491,93,nytimes,"Meryl Streep: ""I don't want to hear about the silence of me. I want to hear about the silence of Melania Trump. I w… https://t.co/8MDsR5wCGh",Sun Jan 07 23:07:42 +0000 2018,-0.1139,0.0,0.896,0.104
+492,94,nytimes,Want updates from the Golden Globes red carpet? Follow @caraNYT. https://t.co/Aqd8KtYdwI,Sun Jan 07 23:06:43 +0000 2018,0.0772,0.115,0.885,0.0
+493,95,nytimes,"The idea of Australia's 3,500-mile long dingo fence is simple: to keep feral dogs and dingoes on one side of the wi… https://t.co/gTiUqFBRzo",Sun Jan 07 23:00:32 +0000 2018,0.0,0.0,1.0,0.0
+494,96,nytimes,"RT @nytimesarts: 8 actresses, including Meryl Streep, Michelle Williams and Laura Dern, announced that they would be accompanied by activis…",Sun Jan 07 22:49:37 +0000 2018,0.0,0.0,1.0,0.0
+495,97,nytimes,"Watch: At a suicide prevention hotline in Puerto Rico, calls are on the rise after Hurricane Maria. Officials warn… https://t.co/q99BD9T3GX",Sun Jan 07 22:45:09 +0000 2018,-0.6705,0.0,0.8,0.2
+496,98,nytimes,"A water main break flooded part of JFK airport, disrupting flights, stranding passengers and adding to the delays f… https://t.co/LnRP1GuZ2O",Sun Jan 07 22:30:30 +0000 2018,0.0,0.0,1.0,0.0
+497,99,nytimes,"As violence rises in Mexico, a handful of towns are quietly breaking from the state. But their experiments in quasi… https://t.co/XGmDQiU7BX",Sun Jan 07 22:15:04 +0000 2018,-0.6249,0.0,0.823,0.177
+498,100,nytimes,RT @nytpolitics: Senator Kirsten Gillibrand urged Al Franken to resign last month. “I believe she miscalculated and has shot herself in the…,Sun Jan 07 22:00:18 +0000 2018,-0.34,0.0,0.897,0.103
