@@ -1,4 +1,8 @@
-
+# News Mood
+## Analysis of sentiments expressed in Tweets sent out by the following news organizations: BBC, CBS, CNN, Fox, and New York times
+### 1. Visualized summary of above medias keep changing based on the execution time. (Note - The interpretation is based on the attached images.) 
+### 2. It is evident that CNN and CBS are leading in average positive setiments compared to other participannts.
+### 3. Overall, only Fox news average sentiments turned out to be negative.
 
 ```python
 # Dependencies
